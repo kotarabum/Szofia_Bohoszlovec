@@ -1,155 +1,112 @@
-body {
-    background-color: rgb(255, 255, 255);}
-.photo {
-position:absolute;
-top: 0%;
-right: 40%;}
-.text {
-position: absolute;
-top: 80%;
-left: 5%;
-font-size: 30px;
-width:30%}
-.text1 {
-position: absolute;
-top: 160%;
-right: 5%;
-font-size: 30px;
-width:30% }
-.text2 {
-position:absolute;
-top: 65%;
-right: 47%;
-font-size: 20px; }  
-#circle1 {
-position: absolute;
-top: 210%;
-right: 50%;
-width:50px;
-height: 50px;
-border-radius: 50%;
-background-color: black;}
-#circle2 {
-position: absolute;
-top: 230%;
-right: 50%;
-width:50px;
-height: 50px;
-border-radius: 50%;
-background-color: black;}
-#circle3 {
-position: absolute;
-top: 250%;
-right: 50%;
-width:50px;
-height: 50px;
-border-radius: 50%;
-background-color: black;}
-#circle4 {
-position: absolute;
-top: 270%;
-right: 50%;
-width:50px;
-height: 50px;
-border-radius: 50%;
-background-color: black;}
-#circle5 {
-position: absolute;
-top: 300%;
-right: 50%;
-width:50px;
-height: 50px;
-border-radius: 50%;
-background-color: rgb(255, 255, 255);}
+body { 
+    background-color: rgb(0, 0, 0)}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    text-underline-position: below;
+    font-size: 45px;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 420px;
+    right: 800px;
+    background-color: rgba(24, 58, 35, 0);
+    color: rgba(255, 255, 255, 0.76);
+    font-style: inherit;
+    font-size: 26px;
+}
+.style {
+    border-width: medium;
+    border-color: lawngreen;}
+.about {
+    position: fixed;
+    bottom: 20px;
+    right: 1600px;
+    background-color: rgba(24, 58, 35, 0);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 30px;
+}
+    
+.modelling {
+    position: fixed;
+    bottom: 20px;
+    right: 1200px;
+    background-color: rgba(24, 58, 35, 0);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 30px;} 
+.renders {
+    position: fixed;
+    bottom: 20px;
+    right: 800px;
+    background-color: rgba(24, 58, 35, 0);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 30px;}
+.sketching {
+    position: fixed;
+    bottom: 20px;
+    right: 400px;
+    background-color: rgba(24, 58, 35, 0);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 30px;}
+.hobbies {
+    position: fixed;
+    bottom: 20px;
+    right: 55px;
+    background-color: rgba(24, 58, 35, 0);
+    color: hsl(0, 0%, 100%);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 30px;}
 #square1 {
-position: fixed;
-top: 5%;
-right: 3%;
-width: 50px;
-height: 50px;
-background-color: rgba(0, 0, 0, 0.986);
-border-radius: 10px;} 
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.986);
+    border-radius: 5px;} 
 #square2 {
-position: fixed;
-top: 12%;
-right: 3%;
-width: 50px;
-height: 50px;
-background-color: rgba(0, 0, 0, 0.986);
-border-radius: 10px;} 
-.text5 {
-position:absolute;
-top: 217%;
-right: 50%;
-font-size: 20px; } 
-.text3 {
-position:absolute;
-top: 220%;
-right: 50%;
-font-size: 30px; } 
-.text4 {
-position:absolute;
-top: 224%;
-right: 50%;
-font-size: 15px;
-color: rgba(0, 0, 0, 0.80); } 
-.text6 {
-position:absolute;
-top: 237%;
-right: 50%;
-font-size: 20px; } 
-.text7 {
-position:absolute;
-top: 240%;
-right: 50%;
-font-size: 30px; } 
-.text8 {
-position:absolute;
-top: 244%;
-right: 50%;
-font-size: 15px;
-color: rgba(0, 0, 0, 0.80); } 
-.text9 {
-position:absolute;
-top: 257%;
-right: 50%;
-font-size: 20px; } 
-.text10 {
-position:absolute;
-top: 260%;
-right: 50%;
-font-size: 30px; } 
-.text11 {
-position:absolute;
-top: 264%;
-right: 50%;
-font-size: 15px;
-color: rgba(0, 0, 0, 0.80); } 
-.text12 {
-position:absolute;
-top: 277%;
-right: 50%;
-font-size: 20px; } 
-.text13 {
-position:absolute;
-top: 280%;
-right: 50%;
-font-size: 30px; } 
-.text14 {
-position:absolute;
-top: 284%;
-right: 50%;
-font-size: 15px;
-color: rgba(0, 0, 0, 0.80); } 
-.text16 {
-position:absolute;
-top: 290%;
-right: 47%;
-font-size: 15px;
-color: rgba(0, 0, 0, 0.80); } 
-.text17 {
-position:absolute;
-top: 5%;
-left: 5%;
-font-size: 30px;
-color: rgba(0, 0, 0, 0.80); } 
+    position: fixed;
+    top: 45px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.986);
+    border-radius: 5px;} 
+
