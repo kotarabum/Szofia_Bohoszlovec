@@ -7,17 +7,16 @@ body {
     transform: translate(-50%, -50%);
     color: rgb(255, 255, 255);
     text-underline-position: below;
-    font-size: 45px;
-}
+    font-size: 45px;}
 .bottom-left {
     position: absolute;
-    bottom: 420px;
-    right: 800px;
+    bottom: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%)
     background-color: rgba(24, 58, 35, 0);
     color: rgba(255, 255, 255, 0.76);
     font-style: inherit;
-    font-size: 26px;
-}
+    font-size: 26px;}
 .style {
     border-width: medium;
     border-color: lawngreen;}
