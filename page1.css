@@ -25,10 +25,10 @@ right: 5%;
 font-size: 30px;
 width:30% }
 .text2 {
-text-align:center;
-display:block;
-position:absolute;
+position: absolute;
 top: 65%;
+left: 50%;
+transform: translate(-50%, -50%);
 font-size: 20px; }  
 #circle1 {
 position: absolute;
