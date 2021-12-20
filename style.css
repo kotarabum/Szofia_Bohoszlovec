@@ -29,7 +29,7 @@ body {
     border-color: lawngreen;}
 .about {
     position: fixed;
-    bottom: 280px;
+    bottom: 320px;
     right: 950px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -43,7 +43,7 @@ body {
     
 .modelling {
     position: fixed;
-    bottom: 240px;
+    bottom: 280px;
     right: 950px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -57,7 +57,7 @@ body {
     font-size: 30px;} 
 .renders {
     position: fixed;
-    bottom: 200px;
+    bottom: 240px;
     right: 950px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -71,7 +71,7 @@ body {
     font-size: 30px;}
 .sketching {
     position: fixed;
-    bottom: 160px;
+    bottom: 200px;
     right: 950px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -85,7 +85,7 @@ body {
     font-size: 30px;}
 .hobbies {
     position: fixed;
-    bottom: 120px;
+    bottom: 160px;
     right: 950px;
     background-color: rgba(24, 58, 35, 0);
     color: hsl(0, 0%, 100%);
