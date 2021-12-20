@@ -5,16 +5,16 @@ background-size: cover;
 background-position: center center;
 background-attachment: relative;}
 .centered {
-    position: absolute;
+    position: fixed;
     text-align: center;
     transform: translate(-50%, -50%);
-    right: 45%;
+    right: 50%;
     bottom:60%;
     color: rgb(255, 255, 255);
     font-size: 20px;
     text-align: center;}
 .bottom-left {
-    position:absolute;
+    position: fixed;
     text-align: center;
     right:50%;
     bottom:58%;
