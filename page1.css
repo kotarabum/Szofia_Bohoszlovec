@@ -7,7 +7,7 @@ body {
     color: white;
     transform: translate(0%, 0%);}
 .photo {
-text-align:center;
+align:center;
 display:block;
 position:absolute;
 top: 0%;}
@@ -20,7 +20,7 @@ width:30%;
 text-family:tittilium; }
 .text1 {
 position: absolute;
-top: 200%;
+top: 250%;
 right: 5%;
 font-size: 30px;
 width:30% }
