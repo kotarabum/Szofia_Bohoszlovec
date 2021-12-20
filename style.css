@@ -12,13 +12,13 @@ background-attachment: relative;}
     transform: translate(-50%, -50%);
     color: rgb(255, 255, 255);
     text-underline-position: below;
-    font-size: 120px;
+    font-size: 20px;
     text-align: center;}
 .bottom-left {
     position:absolute;
     text-align: center;
      transform: translate(-50%, -50%);
-    right:70%;
+    right:100%;
     display:block;
     bottom: 45%;
     background-color: rgba(24, 58, 35, 0);
@@ -28,7 +28,7 @@ background-attachment: relative;}
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:60%;
+    right:220%;
     display:block;
     bottom: 320px;
     background-color: rgba(24, 58, 35, 0);
@@ -45,9 +45,9 @@ background-attachment: relative;}
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:60%;
+    right:180%;
     display:block;
-    bottom: 280px;
+    bottom: 290px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -63,8 +63,8 @@ background-attachment: relative;}
     display:block;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:60%;
-    bottom: 240px;
+    right:140%;
+    bottom: 220px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -79,9 +79,9 @@ background-attachment: relative;}
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:60%;
+    right:100%;
     display:block;
-    bottom: 200px;
+    bottom: 120px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -96,9 +96,9 @@ background-attachment: relative;}
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:60%;
+    right:100%;
     display:block;
-    bottom: 160px;
+    bottom: 80px;
     background-color: rgba(24, 58, 35, 0);
     color: hsl(0, 0%, 100%);
     padding-left: 10px;
