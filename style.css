@@ -111,7 +111,7 @@ background-attachment: relative;}
     font-size: 60px;}
 #square1 {
     position:fixed;
-    top: 2%;
+    top: 1%;
     right: 2%;
     width: 20px;
     height: 20px;
@@ -119,7 +119,7 @@ background-attachment: relative;}
     border-radius: 1px;} 
 #square2 {
     position: fixed; 
-    top: 10%;
+    top: 5%;
     right: 2%;
     width: 20px;
     height: 20px;
