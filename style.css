@@ -26,11 +26,7 @@ background-attachment: relative;}
 .about {
     position: fixed;
     text-align: center;
-    transform: translate(-50%, -50%);
-    margin: auto;
-    width: 50%;
-    bottom: 240px;
-    right:500xp;
+    transform: translate(-50%, -60%);
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
