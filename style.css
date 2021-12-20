@@ -17,13 +17,13 @@ background-attachment: relative;}
 .bottom-left {
     position:absolute;
     text-align: center;
-     transform: translate(-50%, -50%);
-    right:100%;
+    transform: translate(-50%, -50%);
+    right:150%;
     display:block;
     bottom: 45%;
     background-color: rgba(24, 58, 35, 0);
     color: rgba(255, 255, 255, 0.76);
-    font-size: 26px;}
+    font-size: 30px;}
 .about {
     position: absolute;
     text-align: center;
