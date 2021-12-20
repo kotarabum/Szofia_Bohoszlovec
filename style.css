@@ -16,8 +16,8 @@ background-attachment: relative;}
 .bottom-left {
     position:absolute;
     text-align: center;
-    right:55%;
-    bottom:55%;
+    right:50%;
+    bottom:58%;
     background-color: rgba(24, 58, 35, 0);
     color: rgba(255, 255, 255, 0.76);
     font-size: 30px;}
