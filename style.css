@@ -41,11 +41,10 @@ background-attachment: relative;}
     font-size: 60px;}
     
 .modelling {
-    position: absolute;
+    position: fixed;
     text-align: center;
     transform: translate(-50%, -50%);
     right:70%;
-    display:block;
     bottom: 290px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
