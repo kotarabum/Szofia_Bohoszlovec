@@ -4,11 +4,11 @@ background-color: rgb(255, 255, 255);}
 background: url(IMG-1836.jpg);
 background-size: cover;
 background-attachment:fixed;
-width: 35vw;
+width: 300px;
 top: 0%;
-right:50%}
-.text {
-position: absolute;
+right:50opx;}
+.text 
+{position: absolute;
 top: 100%;
 left: 5%;
 font-size: 30px;
