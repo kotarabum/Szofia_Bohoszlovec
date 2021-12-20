@@ -2,8 +2,10 @@ body {
 background-color: rgb(255, 255, 255);}
 .photo {
 position: absolute;
+width: 20vw;
+height: 30vh;
 top: 0%;
-right:70%;}
+right:100%;}
 .text {
 position: absolute;
 top: 120%;
