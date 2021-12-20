@@ -9,7 +9,7 @@ top: 0%;
 right:300xp;}
 .text 
 {position: absolute;
-top: 60%;
+top: 80%;
 left: 5%;
 font-size: 30px;
 width: 40%;
@@ -17,14 +17,14 @@ text-family:tittilium;
 color: black;}
  .text1 {
 position: absolute;
-top: 100%;
+top: 140%;
 right: 5%;
 font-size: 30px;
 width: 40%;
 color: black;}
  .text2 {
 position: absolute;
-top: 50%;
+top: 70%;
 left: 50%;
 transform: translate(-50%, -50%);
 font-size: 20px;
