@@ -190,13 +190,5 @@ font-size: 3vw;
 transform: translate(-50%, -50%);
 z-index: 2;
 text-family: tittilium:}
-#square3 {
-    position: fixed; 
-    top: 5%;
-    right: 50px;
-    width: 500px;
-    height: 20px;
-    background-color:black;
-    border-radius: 0px;} 
- 
+
 
