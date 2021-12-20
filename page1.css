@@ -6,7 +6,7 @@ color: white;
 margin:0;
 padding:0;}
 .photo {
-position:absolute;
+position: relative;
 top: 5%;
 right:55%;}
 .text {
@@ -14,14 +14,14 @@ position: absolute;
 top: 120%;
 left: 5%;
 font-size: 30px;
-width:30%;
+width: 40%;
 text-family:tittilium; }
 .text1 {
 position: absolute;
 top: 220%;
 right: 5%;
 font-size: 30px;
-width: 30%; }
+width: 40%; }
 .text2 {
 position: absolute;
 top: 100%;
@@ -30,7 +30,7 @@ transform: translate(-50%, -50%);
 font-size: 20px; }  
 #circle1 {
 position: absolute;
-top: 210%;
+top: 260%;
 right: 50%;
 width: 30px;
 height: 30px;
@@ -38,7 +38,7 @@ border-radius: 50%;
 background-color: black;}
 #circle2 {
 position: absolute;
-top: 230%;
+top: 280%;
 right: 50%;
 width: 30px;
 height: 30px;
@@ -46,7 +46,7 @@ border-radius: 50%;
 background-color: black;}
 #circle3 {
 position: absolute;
-top: 250%;
+top: 300%;
 right: 50%;
 width: 30px;
 height: 30px;
@@ -54,7 +54,7 @@ border-radius: 50%;
 background-color: black;}
 #circle4 {
 position: absolute;
-top: 270%;
+top: 320%;
 right: 50%;
 width: 30px;
 height: 30px;
@@ -62,7 +62,7 @@ border-radius: 50%;
 background-color: black;}
 #circle5 {
 position: absolute;
-top: 300%;
+top: 340%;
 right: 50%;
 width: 30px;
 height: 30px;
@@ -75,7 +75,7 @@ right: 3%;
 width: 20px;
 height: 20px;
 background-color: rgba(0, 0, 0, 0.986);
-border-radius: 10px;} 
+border-radius: 2px;} 
 #square2 {
 position: fixed;
 top: 12%;
@@ -83,7 +83,7 @@ right: 3%;
 width: 20px;
 height: 20px;
 background-color: rgba(0, 0, 0, 0.986);
-border-radius: 10px;} 
+border-radius: 2px;} 
 .text5 {
 position:absolute;
 top: 217%;
@@ -142,25 +142,24 @@ position:absolute;
 top: 280%;
 right: 50%;
 font-size: 30px; } 
-.text14 {
+ .text14 {
 position:absolute;
 top: 284%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
-.text16 {
+ .text16 {
 position:absolute;
 top: 290%;
 right: 47%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
-.text17 {
+ .text17 {
 position:fixed;
 top: 40px;
 left: 65px;
 font-size: 20px;
 color: rgba(0, 0, 0, 0.80);
-background-color: white;
 width: 100px;
 height: 40px;
 border: 1px;
@@ -169,7 +168,7 @@ border-color: rgb(255, 255, 255);
 background-color: white;
 text-align: center;
 padding-top: 10px;} 
-.heading {
+ .heading {
 text-align: center;
 display:block;
 position: fixed;
