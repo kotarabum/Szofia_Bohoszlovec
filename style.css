@@ -6,8 +6,9 @@ background-position: center center;
 background-attachment: relative;}
 .centered {
     position: absolute;
+    text-align: center;
     transform: translate(-50%, -50%);
-    right: 50%;
+    right: 45%;
     bottom:50%;
     color: rgb(255, 255, 255);
     font-size: 20px;
@@ -15,7 +16,7 @@ background-attachment: relative;}
 .bottom-left {
     position:absolute;
     text-align: center;
-    right:47;
+    right:55;
     bottom:30%;
     background-color: rgba(24, 58, 35, 0);
     color: rgba(255, 255, 255, 0.76);
