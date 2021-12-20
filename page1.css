@@ -48,7 +48,7 @@ background-color: black;}
  #circle3 {
 position: absolute;
 top: 240%;
-right: 30%;
+right: 50%;
 width: 30px;
 height: 30px;
 border-radius: 50%;
@@ -99,7 +99,7 @@ font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
  .text4 {
 position:absolute;
-top: 216%;
+top: 212%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
@@ -117,7 +117,7 @@ font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
 .text8 {
 position:absolute;
-top: 236%;
+top: 232%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
@@ -135,7 +135,7 @@ font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
 .text11 {
 position:absolute;
-top: 256%;
+top: 252%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
@@ -153,7 +153,7 @@ font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
  .text14 {
 position:absolute;
-top: 276%;
+top: 272%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
