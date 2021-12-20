@@ -7,7 +7,6 @@ background-attachment: fixed;}
 .container {
     position: relative;
     width: 1920px;
-    height: 1050px;
     color: white;}
     
 .centered {
@@ -22,18 +21,17 @@ background-attachment: fixed;}
 .bottom-left {
     position:absolute;
     text-align: center;
+     transform: translate(-50%, -50%);
     right:60%
     display:block;
     bottom: 45%;
     background-color: rgba(24, 58, 35, 0);
     color: rgba(255, 255, 255, 0.76);
     font-size: 26px;}
-.style {
-    border-width: medium;
-    border-color: lawngreen;}
 .about {
     position: absolute;
     text-align: center;
+    transform: translate(-50%, -50%);
     right:100%;
     display:block;
     bottom: 320px;
@@ -50,6 +48,7 @@ background-attachment: fixed;}
 .modelling {
     position: absolute;
     text-align: center;
+    transform: translate(-50%, -50%);
     right:100%;
     display:block;
     bottom: 280px;
@@ -65,9 +64,10 @@ background-attachment: fixed;}
     font-size: 60px;} 
 .renders {
     position: absolute;
-    text-align: center;
-    right:100%;
     display:block;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    right:50%;
     bottom: 240px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -82,7 +82,8 @@ background-attachment: fixed;}
 .sketching {
     position: absolute;
     text-align: center;
-    right:100%;
+    transform: translate(-50%, -50%);
+    right:50%;
     display:block;
     bottom: 200px;
     background-color: rgba(24, 58, 35, 0);
@@ -98,7 +99,8 @@ background-attachment: fixed;}
 .hobbies {
     position: absolute;
     text-align: center;
-    right:100%;
+    transform: translate(-50%, -50%);
+    right:50%;
     display:block;
     bottom: 160px;
     background-color: rgba(24, 58, 35, 0);
