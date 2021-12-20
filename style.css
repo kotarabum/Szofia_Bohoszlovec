@@ -24,12 +24,11 @@ background-attachment: relative;}
     color: rgba(255, 255, 255, 0.76);
     font-size: 30px;}
 .about {
-    position: absolute;
+    position: fixed;
     text-align: center;
     transform: translate(-50%, -50%);
     margin: auto;
     width: 50%;
-    display:block;
     bottom: 240px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -82,7 +81,6 @@ background-attachment: relative;}
     transform: translate(-50%, -50%);
     margin: auto;
     width: 50%;
-    display:block;
     bottom: 120px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -100,7 +98,6 @@ background-attachment: relative;}
     transform: translate(-50%, -50%);
     margin: auto;
     width: 50%;
-    display:block;
     bottom: 80px;
     background-color: rgba(24, 58, 35, 0);
     color: hsl(0, 0%, 100%);
