@@ -9,7 +9,7 @@ width: 35vw;
 top: 0%;}
 .text {
 position: absolute;
-top: 120%;
+top: 100%;
 left: 5%;
 font-size: 30px;
 width: 40%;
@@ -17,21 +17,21 @@ text-family:tittilium;
 color: black;}
  .text1 {
 position: absolute;
-top: 220%;
+top: 150%;
 right: 5%;
 font-size: 30px;
 width: 40%;
 color: black;}
  .text2 {
 position: absolute;
-top: 100%;
+top: 90%;
 left: 50%;
 transform: translate(-50%, -50%);
 font-size: 20px;
 color:black;}  
  #circle1 {
 position: absolute;
-top: 300%;
+top: 200%;
 right: 50%;
 width: 50px;
 height: 50px;
@@ -39,7 +39,7 @@ border-radius: 50%;
 background-color: black;}
  #circle2 {
 position: absolute;
-top: 320%;
+top: 220%;
 right: 50%;
 width: 50px;
 height: 50px;
@@ -47,7 +47,7 @@ border-radius: 50%;
 background-color: black;}
  #circle3 {
 position: absolute;
-top: 340%;
+top: 240%;
 right: 50%;
 width: 50px;
 height: 50px;
@@ -55,7 +55,7 @@ border-radius: 50%;
 background-color: black;}
  #circle4 {
 position: absolute;
-top: 360%;
+top: 260%;
 right: 50%;
 width: 50px;
 height: 50px;
@@ -63,7 +63,7 @@ border-radius: 50%;
 background-color: black;}
  #circle5 {
 position: absolute;
-top: 380%;
+top: 280%;
 right: 50%;
 width: 50px;
 height: 50px;
@@ -87,79 +87,79 @@ background-color: rgba(0, 0, 0, 0.986);
 border-radius: 2px;} 
  .text5 {
 position:absolute;
-top: 308%;
+top: 208%;
 right: 50%;
 font-size: 20px;
 color: rgba(0, 0, 0, 0.80);} 
  .text3 {
 position:absolute;
-top: 310%;
+top: 210%;
 right: 50%;
 font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
  .text4 {
 position:absolute;
-top: 316%;
+top: 216%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
 .text6 {
 position:absolute;
-top: 328%;
+top: 228%;
 right: 50%;
 font-size: 20px;
 color: rgba(0, 0, 0, 0.80);} 
 .text7 {
 position:absolute;
-top: 330%;
+top: 230%;
 right: 50%;
 font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
 .text8 {
 position:absolute;
-top: 336%;
+top: 236%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
 .text9 {
 position:absolute;
-top: 348%;
+top: 248%;
 right: 50%;
 font-size: 20px; 
 color: rgba(0, 0, 0, 0.80);} 
 .text10 {
 position:absolute;
-top: 350%;
+top: 250%;
 right: 50%;
 font-size: 30px; 
 color: rgba(0, 0, 0, 0.80);} 
 .text11 {
 position:absolute;
-top: 356%;
+top: 256%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
 .text12 {
 position:absolute;
-top: 368%;
+top: 268%;
 right: 50%;
 font-size: 20px;
 color: rgba(0, 0, 0, 0.80);} 
 .text13 {
 position:absolute;
-top: 370%;
+top: 270%;
 right: 50%;
 font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
  .text14 {
 position:absolute;
-top: 376%;
+top: 276%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
  .text16 {
 position:absolute;
-top: 410%;
+top: 210%;
 right: 47%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
