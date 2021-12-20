@@ -9,7 +9,7 @@ top: 0%;
 right:300px;}
 .text 
 {position: absolute;
-top: 80%;
+top: 50%;
 left: 5%;
 font-size: 30px;
 width: 40%;
@@ -17,14 +17,14 @@ text-family:tittilium;
 color: black;}
  .text1 {
 position: absolute;
-top: 140%;
+top: 100%;
 right: 5%;
 font-size: 30px;
 width: 40%;
 color: black;}
  .text2 {
 position: absolute;
-top: 70%;
+top: 40%;
 left: 50%;
 transform: translate(-50%, -50%);
 font-size: 20px;
@@ -33,40 +33,40 @@ color:black;}
 position: absolute;
 top: 200%;
 right: 50%;
-width: 50px;
-height: 50px;
+width: 30px;
+height: 30px;
 border-radius: 50%;
 background-color: black;}
  #circle2 {
 position: absolute;
 top: 220%;
 right: 50%;
-width: 50px;
-height: 50px;
+width: 30px;
+height: 30px;
 border-radius: 50%;
 background-color: black;}
  #circle3 {
 position: absolute;
 top: 240%;
-right: 50%;
-width: 5%;
-height: 5%;
+right: 30%;
+width: 30px;
+height: 5opx;
 border-radius: 50%;
 background-color: black;}
  #circle4 {
 position: absolute;
 top: 260%;
 right: 50%;
-width: 50px;
-height: 50px;
+width: 30px;
+height: 30px;
 border-radius: 50%;
 background-color: black;}
  #circle5 {
 position: absolute;
 top: 280%;
 right: 50%;
-width: 50px;
-height: 50px;
+width: 30px;
+height: 30px;
 border-radius: 50%;
 background-color:black;}
  #square1 {
