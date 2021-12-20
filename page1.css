@@ -6,9 +6,9 @@ color: white;
 margin:0;
 padding:0;}
 .photo {
-margin:0;
 position:absolute;
-top: 0%;}
+top: 5%;
+right:55%;}
 .text {
 position: absolute;
 top: 120%;
