@@ -2,8 +2,6 @@ body {
     background-color: rgb(255, 255, 255);}
 .container {
     position: relative;
-    width: 1920px;
-    height: 16000px;
     color: white;
     transform: translate(0%, 0%);}
 .photo {
