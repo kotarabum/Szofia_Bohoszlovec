@@ -3,7 +3,7 @@ background-color: rgb(255, 255, 255);}
 .photo {
 position: absolute;
 top: 0%;
-right:55%;}
+right:100%;}
 .text {
 position: absolute;
 top: 120%;
@@ -162,9 +162,9 @@ font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
  .text17 {
 position:fixed;
-top: 40px;
-left: 65px;
-font-size: 20px;
+top: 2%;
+left: 5%;
+font-size: 3vw;
 color: rgba(0, 0, 0, 0.80);
 width: 100px;
 height: 40px;
