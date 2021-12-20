@@ -26,6 +26,8 @@ background-attachment: relative;}
 .about {
     position: fixed;
     text-align: center;
+    bottom: 220px;
+    right: 50%;
     transform: translate(-50%, -60%);
     background-color: rgba(24, 58, 35, 0);
     color: white;
