@@ -29,7 +29,8 @@ position: absolute;
 top: 100%;
 left: 50%;
 transform: translate(-50%, -50%);
-font-size: 20px; }  
+font-size: 20px;
+color:black;}  
  #circle1 {
 position: absolute;
 top: 300%;
@@ -69,21 +70,21 @@ right: 50%;
 width: 30px;
 height: 30px;
 border-radius: 50%;
-background-color: rgb(255, 255, 255);}
+background-color:black;}
  #square1 {
 position: fixed;
 top: 5%;
 right: 3%;
-width: 20px;
-height: 20px;
+width: 40px;
+height: 40px;
 background-color: rgba(0, 0, 0, 0.986);
 border-radius: 2px;} 
  #square2 {
 position: fixed;
 top: 12%;
 right: 3%;
-width: 20px;
-height: 20px;
+width: 40px;
+height: 40px;
 background-color: rgba(0, 0, 0, 0.986);
 border-radius: 2px;} 
  .text5 {
@@ -100,7 +101,7 @@ font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
  .text4 {
 position:absolute;
-top: 312%;
+top: 316%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
@@ -118,7 +119,7 @@ font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
 .text8 {
 position:absolute;
-top: 332%;
+top: 336%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
@@ -136,7 +137,7 @@ font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
 .text11 {
 position:absolute;
-top: 372%;
+top: 376%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
@@ -154,7 +155,7 @@ font-size: 30px;
 color: rgba(0, 0, 0, 0.80);} 
  .text14 {
 position:absolute;
-top: 392%;
+top: 396%;
 right: 50%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
@@ -195,7 +196,7 @@ text-family: tittilium:}
     right: 50px;
     width: 500px;
     height: 20px;
-    background-color: rgba(255, 255, 255, 0.986);
+    background-color:black;
     border-radius: 5px;} 
  
 
