@@ -58,7 +58,7 @@ background-attachment: relative;}
     border-radius: 1px;
     font-size: 60px;} 
 .renders {
-    position: absolute;
+    position: fixed;
     display:block;
     text-align: center;
     transform: translate(-50%, -50%);
@@ -76,11 +76,12 @@ background-attachment: relative;}
     border-radius: 1px;
     font-size: 60px;}
 .sketching {
-    position: absolute;
+    position: fixed;
     text-align: center;
     transform: translate(-50%, -50%);
     margin: auto;
     width: 50%;
+    right 500xp;
     bottom: 120px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -93,7 +94,7 @@ background-attachment: relative;}
     border-radius: 1px;
     font-size: 60px;}
 .hobbies {
-    position: absolute;
+    position: fixed;
     text-align: center;
     transform: translate(-50%, -50%);
     margin: auto;
