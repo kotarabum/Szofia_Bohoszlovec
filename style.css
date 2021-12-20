@@ -28,9 +28,10 @@ body {
     border-width: medium;
     border-color: lawngreen;}
 .about {
-    position: fixed;
+    position: absolute;
+    transform: translate(-50%, -50%);
     bottom: 320px;
-    right: 950px;
+    right: 50%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 20px;
@@ -42,9 +43,10 @@ body {
     font-size: 30px;}
     
 .modelling {
-    position: fixed;
+    position: absolute;
+    transform: translate(-50%, -50%);
     bottom: 280px;
-    right: 950px;
+    right: 50%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -56,9 +58,10 @@ body {
     border-radius: 1px;
     font-size: 30px;} 
 .renders {
-    position: fixed;
+    position: absolute;
+    transform: translate(-50%, -50%);
     bottom: 240px;
-    right: 950px;
+    right: 50%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -70,9 +73,10 @@ body {
     border-radius: 1px;
     font-size: 30px;}
 .sketching {
-    position: fixed;
+    position: absolute;
+    transform: translate(-50%, -50%);
     bottom: 200px;
-    right: 950px;
+    right: 50%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -84,9 +88,10 @@ body {
     border-radius: 1px;
     font-size: 30px;}
 .hobbies {
-    position: fixed;
+    position: absolute;
+    transform: translate(-50%, -50%);
     bottom: 160px;
-    right: 950px;
+    right: 50%x;
     background-color: rgba(24, 58, 35, 0);
     color: hsl(0, 0%, 100%);
     padding-left: 10px;
