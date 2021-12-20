@@ -6,7 +6,8 @@ background-size: cover;
 background-position: center center;
 background-attachment:fixed;
 width: 35vw;
-top: 0%;}
+top: 0%;
+right:50%}
 .text {
 position: absolute;
 top: 100%;
@@ -159,7 +160,7 @@ font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
  .text16 {
 position:absolute;
-top: 210%;
+top: 290%;
 right: 47%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80); } 
