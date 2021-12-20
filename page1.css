@@ -184,17 +184,16 @@ position: fixed;
 right:100%;
 top:2%;
 color: white;
-font-size: 2.5vw;
-transform: translate(-50%, -50%);
+font-size: 35px;
 z-index: 2;
 text-family: tittilium;
-background-color: rgba(24, 58, 35, 0);
-padding-left: 30vw;
-padding-right: 30vw;
+background-color:black;
+padding-left: 300px;
+padding-right: 300px;
 border-style: solid;
 border-color: black);
 background-color:black;
-border-width: 0.05vw;
+border-width: 0.05px;
 border-radius: 0px;}
  #circle2 {
 position: absolute;
