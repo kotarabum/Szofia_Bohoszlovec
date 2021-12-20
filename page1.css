@@ -4,9 +4,9 @@ background-color: rgb(255, 255, 255);}
 background: url(IMG-1836.jpg);
 background-size: cover;
 background-attachment:fixed;
-width: 30px;
+width: 300px;
 top: 0%;
-right:30px;}
+right:300px;}
 .text 
 {position: absolute;
 top: 80%;
