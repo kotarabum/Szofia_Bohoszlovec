@@ -26,8 +26,8 @@ background-attachment: relative;}
 .about {
     position: fixed;
     text-align: center;
-    bottom:20%;
-    right:30%;
+    bottom:25%;
+    right:45%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -41,10 +41,8 @@ background-attachment: relative;}
 .modelling {
     position: fixed;
     text-align: center;
-    transform: translate(-50%, -50%);
-    margin: auto;
-    width: 50%;
-    bottom: 200px;
+    bottom:20%;
+    right:45%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -59,10 +57,8 @@ background-attachment: relative;}
     position: fixed;
     display:block;
     text-align: center;
-    transform: translate(-50%, -50%);
-    margin: auto;
-    width: 50%;
-    bottom: 160px;
+    bottom:15%;
+    right:45%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -76,11 +72,8 @@ background-attachment: relative;}
 .sketching {
     position: fixed;
     text-align: center;
-    transform: translate(-50%, -50%);
-    margin: auto;
-    width: 50%;
-    right 500xp;
-    bottom: 120px;
+    bottom:10%;
+    right:45%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -94,10 +87,8 @@ background-attachment: relative;}
 .hobbies {
     position: fixed;
     text-align: center;
-    transform: translate(-50%, -50%);
-    margin: auto;
-    width: 50%;
-    bottom: 80px;
+    bottom:5%;
+    right:45%;
     background-color: rgba(24, 58, 35, 0);
     color: hsl(0, 0%, 100%);
     padding-left: 10px;
