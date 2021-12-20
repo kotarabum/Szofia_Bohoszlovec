@@ -27,7 +27,8 @@ background-attachment: relative;}
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:70%;
+    margin: auto;
+    width: 50%;
     display:block;
     bottom: 240px;
     background-color: rgba(24, 58, 35, 0);
@@ -44,7 +45,8 @@ background-attachment: relative;}
     position: fixed;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:70%;
+    margin: auto;
+    width: 50%;
     bottom: 200px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -61,7 +63,8 @@ background-attachment: relative;}
     display:block;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:70%;
+    margin: auto;
+    width: 50%;
     bottom: 160px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
@@ -77,7 +80,8 @@ background-attachment: relative;}
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:70%;
+    margin: auto;
+    width: 50%;
     display:block;
     bottom: 120px;
     background-color: rgba(24, 58, 35, 0);
@@ -94,7 +98,8 @@ background-attachment: relative;}
     position: absolute;
     text-align: center;
     transform: translate(-50%, -50%);
-    right:70%;
+    margin: auto;
+    width: 50%;
     display:block;
     bottom: 80px;
     background-color: rgba(24, 58, 35, 0);
