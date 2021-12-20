@@ -7,9 +7,10 @@ body {
     color: white;
     transform: translate(0%, 0%);}
 .photo {
+text-align:center;
+display:block;
 position:absolute;
-top: 0%;
-right: 40%;}
+top: 0%;}
 .text {
 position: absolute;
 top: 80%;
