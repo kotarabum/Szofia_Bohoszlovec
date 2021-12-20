@@ -10,17 +10,18 @@ body {
 align:center;
 display:block;
 position:absolute;
+right: 50%;
 top: 0%;}
 .text {
 position: absolute;
-top: 80%;
+top: 120%;
 left: 5%;
 font-size: 30px;
 width:30%;
 text-family:tittilium; }
 .text1 {
 position: absolute;
-top: 250%;
+top: 220%;
 right: 5%;
 font-size: 30px;
 width:30% }
@@ -34,40 +35,40 @@ font-size: 20px; }
 position: absolute;
 top: 210%;
 right: 50%;
-width: 50%;
-height: 50%;
+width: 30px;
+height: 30px;
 border-radius: 50%;
 background-color: black;}
 #circle2 {
 position: absolute;
 top: 230%;
 right: 50%;
-width:50px;
-height: 50px;
+width:30px;
+height: 30px;
 border-radius: 50%;
 background-color: black;}
 #circle3 {
 position: absolute;
 top: 250%;
 right: 50%;
-width:50px;
-height: 50px;
+width:30px;
+height: 30px;
 border-radius: 50%;
 background-color: black;}
 #circle4 {
 position: absolute;
 top: 270%;
 right: 50%;
-width:50px;
-height: 50px;
+width:30px;
+height: 30px;
 border-radius: 50%;
 background-color: black;}
 #circle5 {
 position: absolute;
 top: 300%;
 right: 50%;
-width:50px;
-height: 50px;
+width:30px;
+height: 30px;
 border-radius: 50%;
 background-color: rgb(255, 255, 255);}
 #square1 {
@@ -172,22 +173,22 @@ background-color: white;
 text-align: center;
 padding-top: 10px;} 
 .heading {
-    text-align: center;
-    display:block;
-    position: fixed;
-    color: white;
-    top: 65px;
-    font-size: 30px;
-    transform: translate(-50%, -50%);
-    z-index: 1;
-    text-align: center;
+text-align: center;
+display:block;
+position: fixed;
+right:50%;
+top: 65px;
+color: white;
+font-size: 3vw;
+transform: translate(-50%, -50%);
+z-index: 2;
 text-family: tittilium:}
 #square3 {
-    position: fixed;
-    top: 40px;
-    text-align:center;
-    width: 50%;
-    height: 10%;
-    background-color: rgba(0, 0, 0, 0.986);
-    border-radius: 0px;
-    text-align: center;} 
+position: fixed;
+top: 40px;
+right:50%;
+width: 50%;
+height: 10%;
+background-color: rgba(0, 0, 0, 0.986);
+border-radius: 0px;
+z-index: 1;} 
