@@ -4,11 +4,6 @@ background: url(MOVING%20TEMPLE%202.gif);
 background-size: cover;
 background-position: center center;
 background-attachment: fixed;}
-.container {
-    position: relative;
-    width: 1920px;
-    color: white;}
-    
 .centered {
     position: absolute;
     top: 50%;
