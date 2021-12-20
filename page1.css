@@ -5,9 +5,8 @@ background: url(IMG-1836.jpg);
 background-size: cover;
 background-position: center center;
 background-attachment:fixed;
-width: 300px;
-top: 0%;
-right:100%;}
+width: 35vw;
+top: 0%;}
 .text {
 position: absolute;
 top: 120%;
