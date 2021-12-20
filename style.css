@@ -111,18 +111,18 @@ background-attachment: relative;}
     font-size: 60px;}
 #square1 {
     position:fixed;
-    top: 5%;
-    right: 5%;
+    top: 2%;
+    right: 2%;
     width: 50px;
     height: 50px;
     background-color: rgba(255, 255, 255, 0.986);
     border-radius: 5px;} 
 #square2 {
     position: fixed; 
-    top: 12%;
-    right: 5%;
-    width: 50px;
-    height: 50px;
+    top: 10%;
+    right: 2%;
+    width: 10px;
+    height: 10px;
     background-color: rgba(255, 255, 255, 0.986);
     border-radius: 5px;} 
 
