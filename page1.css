@@ -90,12 +90,14 @@ border-radius: 2px;}
 position:absolute;
 top: 308%;
 right: 50%;
-font-size: 20px; } 
+font-size: 20px;
+color: rgba(0, 0, 0, 0.80);} 
  .text3 {
 position:absolute;
 top: 310%;
 right: 50%;
-font-size: 30px; } 
+font-size: 30px;
+color: rgba(0, 0, 0, 0.80);} 
  .text4 {
 position:absolute;
 top: 312%;
@@ -106,12 +108,14 @@ color: rgba(0, 0, 0, 0.80); }
 position:absolute;
 top: 328%;
 right: 50%;
-font-size: 20px; } 
+font-size: 20px;
+color: rgba(0, 0, 0, 0.80);} 
 .text7 {
 position:absolute;
 top: 330%;
 right: 50%;
-font-size: 30px; } 
+font-size: 30px;
+color: rgba(0, 0, 0, 0.80);} 
 .text8 {
 position:absolute;
 top: 332%;
@@ -122,12 +126,14 @@ color: rgba(0, 0, 0, 0.80); }
 position:absolute;
 top: 368%;
 right: 50%;
-font-size: 20px; } 
+font-size: 20px; 
+color: rgba(0, 0, 0, 0.80);} 
 .text10 {
 position:absolute;
 top: 370%;
 right: 50%;
-font-size: 30px; } 
+font-size: 30px; 
+color: rgba(0, 0, 0, 0.80);} 
 .text11 {
 position:absolute;
 top: 372%;
@@ -138,12 +144,14 @@ color: rgba(0, 0, 0, 0.80); }
 position:absolute;
 top: 388%;
 right: 50%;
-font-size: 20px; } 
+font-size: 20px;
+color: rgba(0, 0, 0, 0.80);} 
 .text13 {
 position:absolute;
 top: 390%;
 right: 50%;
-font-size: 30px; } 
+font-size: 30px;
+color: rgba(0, 0, 0, 0.80);} 
  .text14 {
 position:absolute;
 top: 392%;
