@@ -12,7 +12,7 @@ background-attachment: relative;}
     transform: translate(-50%, -50%);
     color: rgb(255, 255, 255);
     text-underline-position: below;
-    font-size: 45px;
+    font-size: 120px;
     text-align: center;}
 .bottom-left {
     position:absolute;
