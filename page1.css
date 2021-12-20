@@ -179,12 +179,4 @@ font-size: 3vw;
 transform: translate(-50%, -50%);
 z-index: 2;
 text-family: tittilium:}
-#square3 {
-position: fixed;
-top: 40px;
-right:70%;
-width: 50%;
-height: 10%;
-background-color: rgba(0, 0, 0, 0.986);
-border-radius: 0px;
-z-index: 1;} 
+
