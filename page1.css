@@ -1,9 +1,12 @@
 body {
 background-color: rgb(255, 255, 255);}
 .photo {
-position: absolute;
 width: 20vw;
 height: 30vh;
+background: url(IMG-1836.jpg);
+background-size: cover;
+background-position: center center;
+background-attachment:fixed;
 top: 0%;
 right:100%;}
 .text {
