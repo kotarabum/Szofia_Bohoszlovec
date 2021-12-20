@@ -41,7 +41,7 @@ body {
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 30px;}
+    font-size: 60px;}
     
 .modelling {
     position: absolute;
@@ -58,7 +58,7 @@ body {
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 30px;} 
+    font-size: 60px;} 
 .renders {
     position: absolute;
     text-align: center;
@@ -74,7 +74,7 @@ body {
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 30px;}
+    font-size: 60px;}
 .sketching {
     position: absolute;
     text-align: center;
@@ -90,7 +90,7 @@ body {
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 30px;}
+    font-size: 60px;}
 .hobbies {
     position: absolute;
     text-align: center;
@@ -106,7 +106,7 @@ body {
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 30px;}
+    font-size: 60px;}
 #square1 {
     position:fixed;
     top: 5%;
