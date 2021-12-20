@@ -1,11 +1,12 @@
 body {
-    background-color: rgb(255, 255, 255);}
+background-color: rgb(255, 255, 255);}
 .container {
-    position: relative;
-    color: white;
-    transform: translate(0%, 0%);}
+position: absolute;
+color: white;
+margin:0;
+padding:0;}
 .photo {
-margin:auto;
+margin:0;
 position:absolute;
 top: 0%;}
 .text {
@@ -23,7 +24,7 @@ font-size: 30px;
 width: 30%; }
 .text2 {
 position: absolute;
-top: 65%;
+top: 100%;
 left: 50%;
 transform: translate(-50%, -50%);
 font-size: 20px; }  
@@ -172,7 +173,7 @@ padding-top: 10px;}
 text-align: center;
 display:block;
 position: fixed;
-right:50%;
+right:55%;
 top: 65px;
 color: white;
 font-size: 3vw;
@@ -182,7 +183,7 @@ text-family: tittilium:}
 #square3 {
 position: fixed;
 top: 40px;
-right:50%;
+right:70%;
 width: 50%;
 height: 10%;
 background-color: rgba(0, 0, 0, 0.986);
