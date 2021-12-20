@@ -113,16 +113,16 @@ background-attachment: relative;}
     position:fixed;
     top: 2%;
     right: 2%;
-    width: 50px;
-    height: 50px;
+    width: 20px;
+    height: 20px;
     background-color: rgba(255, 255, 255, 0.986);
-    border-radius: 5px;} 
+    border-radius: 1px;} 
 #square2 {
     position: fixed; 
     top: 10%;
     right: 2%;
-    width: 10px;
-    height: 10px;
+    width: 20px;
+    height: 20px;
     background-color: rgba(255, 255, 255, 0.986);
-    border-radius: 5px;} 
+    border-radius: 1px;} 
 
