@@ -182,24 +182,24 @@ padding-right: 5px;}
 text-align: center;
 display:block;
 position: fixed;
-right:50%;
+right:30%;
 top:2%;
 color: white;
 font-size: 35px;
 z-index: 999;
 text-family: tittilium;
 background-color:black;
-padding-left: 300px;
-padding-right: 300px;
+padding-left: 30%;
+padding-right: 30%;
 border-style: solid;
 border-color: black);
 background-color:black;
 border-width: 0.05px;
 border-radius: 0px;}
- #circle2 {
+ #circle6 {
 position: absolute;
 top: 320%;
-right: 50%;
+right: 45%;
 width: 30px;
 height: 30px;
 border-radius: 50%;
