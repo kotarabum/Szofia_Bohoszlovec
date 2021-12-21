@@ -1,11 +1,11 @@
 body {
 position:absolute;
-background-color: rgb(255, 255, 255);}
-.photo {
-position:relative; {
-width: 10%;
-top: 0%;
-right:30%; }
+background: url(IMG-1836.jpg);
+background-size: cover;
+background-position: center center;
+background-attachment: relative;
+background-color: rgb(255, 255, 255);
+width:500px;}
 .text 
 {position: absolute;
 top: 100%;
