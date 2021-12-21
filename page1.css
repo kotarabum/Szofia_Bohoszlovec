@@ -4,9 +4,9 @@ background-color: rgb(255, 255, 255);}
 .photo {
 background: url(IMG-1836.jpg);
 background-size: cover;
-width: 1800px;
+width: 1500px;
 top: 0%;
-right:500px;}
+right:900px;}
 .text 
 {position: absolute;
 top: 100%;
