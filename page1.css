@@ -6,7 +6,8 @@ background-position: center top;
 background-attachment: absolute;
 background-repeat: no-repeat;
 background-color: rgb(255, 255, 255);
-background-size: 40%;}
+background-size: 40%;
+margin:30px;}
 .text 
 {position: absolute;
 top: 120%;
@@ -182,7 +183,7 @@ top: 310%;
 right: 45%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80);
-margin:0;} 
+margin:30;} 
  .text17 {
 position:fixed;
 top: 2%;
@@ -217,7 +218,7 @@ border-color: black);
 background-color:black;
 border-width: 0.05px;
 border-radius: 0px;
-margin:100px;}
+margin:30px;}
 
 
 
