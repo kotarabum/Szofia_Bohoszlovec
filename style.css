@@ -25,7 +25,7 @@ background-attachment: relative;}
     text-align: center;
     bottom:45%;
     right:45%;
-    margin:20px;
+    margin:0px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -42,7 +42,7 @@ background-attachment: relative;}
     text-align: center;
     bottom:35%;
     right:42.5%;
-    margin:20px;
+    margin:0px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -60,7 +60,7 @@ background-attachment: relative;}
     text-align: center;
     bottom:25%;
     right:43.5%;
-    margin:20px;
+    margin:0px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -78,7 +78,7 @@ background-attachment: relative;}
     text-align: center;
     bottom:15%;
     right:42.5%;
-    margin:20px;
+    margin:0px;
     background-color: rgba(24, 58, 35, 0);
     color: white;
     padding-left: 10px;
@@ -95,7 +95,7 @@ background-attachment: relative;}
     text-align: center;
     bottom:5%;
     right:43.5%;
-    margin:20px;
+    margin:0px;
     background-color: rgba(24, 58, 35, 0);
     color: hsl(0, 0%, 100%);
     padding-left: 10px;
