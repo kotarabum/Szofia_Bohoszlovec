@@ -3,9 +3,9 @@ position:absolute;
 background-color: rgb(255, 255, 255);}
 .photo {
 position:absolute; {
-width: 600px;
+width: 100px;
 top: 0%;
-right:700px; }
+right:200px; }
 .text 
 {position: absolute;
 top: 100%;
