@@ -2,7 +2,7 @@ body {
 position:absolute;
 background: url(IMG-1836.jpg);
 background-size: cover;
-background-position: center center;
+background-position: center top;
 background-attachment: relative;
 background-color: rgb(255, 255, 255);
 width:500px;}
