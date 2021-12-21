@@ -4,6 +4,7 @@ background: url(IMG-1836.jpg);
 background-size: cover;
 background-position: center top;
 background-attachment: absolute;
+background-repeat: no-repeat;
 background-color: rgb(255, 255, 255);
 width:350px;}
 .text 
