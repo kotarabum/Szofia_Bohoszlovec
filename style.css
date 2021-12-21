@@ -34,7 +34,7 @@ background-attachment: relative;}
     border-width: 0.05px;
     border-radius: 1px;
     font-size: 60px;
-    font-size-adjust: 2;}
+    font-size-adjust: inherit;}
     
 .modelling {
     position: fixed;
@@ -51,7 +51,7 @@ background-attachment: relative;}
     border-width: 0.05px;
     border-radius: 1px;
     font-size: 60px;
-    font-size-adjust: 2;} 
+    font-size-adjust: inherit;} 
 .renders {
     position: fixed;
     display:block;
@@ -68,7 +68,8 @@ background-attachment: relative;}
     border-width: 0.05px;
     border-radius: 1px;
     font-size: 60px;
-    font-size-adjust: 2;}
+    font-size-adjust: inherit;
+    }
 .sketching {
     position: fixed;
     text-align: center;
@@ -84,7 +85,7 @@ background-attachment: relative;}
     border-width: 0.05px;
     border-radius: 1px;
     font-size: 60px;
-    font-size-adjust: 2;}
+    font-size-adjust: inherit;}
 .hobbies {
     position: fixed;
     text-align: center;
@@ -100,7 +101,7 @@ background-attachment: relative;}
     border-width: 0.05px;
     border-radius: 1px;
     font-size: 60px;
-    font-size-adjust: 2;}
+    font-size-adjust: inherit;}
 #square1 {
     position:fixed;
     top: 1%;
