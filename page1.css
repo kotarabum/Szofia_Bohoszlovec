@@ -3,7 +3,7 @@ position:absolute;
 background: url(IMG-1836.jpg);
 background-size: cover;
 background-position: center top;
-background-attachment: relative;
+background-attachment: absolute;
 background-color: rgb(255, 255, 255);
 width:350px;}
 .text 
