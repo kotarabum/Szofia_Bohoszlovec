@@ -2,11 +2,10 @@ body {
 position:absolute;
 background-color: rgb(255, 255, 255);}
 .photo {
-background: url(IMG-1836.jpg);
-background-size: cover;
-width: 1500px;
+position:absolute; {
+width: 1300px;
 top: 0%;
-right:900px;}
+right:700px; }
 .text 
 {position: absolute;
 top: 100%;
