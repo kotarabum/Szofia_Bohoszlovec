@@ -32,7 +32,7 @@ left: 50%;
 transform: translate(-50%, -50%);
 font-size: 20px;
 color:black;
-margin:0;}  
+margin:5%;}  
  #circle1 {
 position: absolute;
 top: 200%;
@@ -218,7 +218,7 @@ border-color: black);
 background-color:black;
 border-width: 0.05px;
 border-radius: 0px;
-margin:5%;}
+margin:2%;}
 
 
 
