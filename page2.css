@@ -1,34 +1,45 @@
 body {
-position:relative;
-background-color: rgb(49, 56, 43);
-background-size: cover;
-background-position: center center;
-margin:5%;
-width:100%}
-.heading {
-    position: fixed;
-    color: white;
-    top: 65px;
-    right: 45%;
-    font-size: 30px;
-    transform: translate(-50%, -50%);
-    z-index: 1;
-    text-align: center;}
-#square3 {
-    position: fixed;
-    top: 40px;
-    right: 450px;
-    width: 1000px;
-    height: 50px;
-    background-color: rgba(0, 0, 0, 0.986);
-    border-radius: 0px;
-    text-align: center;} 
+   position:relative;
+   background-color: rgb(49, 56, 43);
+   background-size: cover;
+   background-position: center center;
+   margin:5%;
+   width:100%}
 .back {
-    position:fixed;
-    top: 3%;
-    left: 3%;
-    font-size: 20px;
-    color: rgba(255, 255, 255, 0.8); } 
+   position:fixed;
+   top: 2%;
+   left: 5%;
+   font-size: 3vw;
+   color: rgba(0, 0, 0, 0.80);
+   border: 1px;
+   border-style: solid;
+   border-color: rgb(255, 255, 255);
+   background-color: white;
+   text-align: center;
+   padding-top: 10px;
+   padding-botom:10px;
+   padding-left: 5px;
+   padding-right: 5px;
+   margin:0;}
+.heading {
+   text-align: center;
+   display:block;
+   position: fixed;
+   right:10%;
+   top:2%;
+   color: white;
+   font-size: 35px;
+   z-index: 999;
+   text-family: tittilium;
+   background-color:black;
+   padding-left: 30%;
+   padding-right: 30%;
+   border-style: solid;
+   border-color: black);
+   background-color:black;
+   border-width: 0.05px;
+   border-radius: 0px;
+   margin:2%;}
 .text1 {
     position:relative;
     top: 10%;
