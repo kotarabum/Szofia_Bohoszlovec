@@ -181,7 +181,7 @@ margin:1%;}
  .text16 {
 position:absolute;
 top: 310%;
-right: 45%;
+right: 35%;
 font-size: 15px;
 color: rgba(0, 0, 0, 0.80);
 margin:10%;} 
@@ -205,7 +205,7 @@ margin:10%;}
    text-align: center;
    display:block;
    position: fixed;
-   right:12%;
+   right:15%;
    top:2%;
    color: white;
    font-size: 35px;
