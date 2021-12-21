@@ -216,14 +216,8 @@ border-style: solid;
 border-color: black);
 background-color:black;
 border-width: 0.05px;
-border-radius: 0px;}
- #circle6 {
-position: absolute;
-top: 320%;
-right: 45%;
-width: 30px;
-height: 30px;
-border-radius: 50%;
-background-color: white;}
+border-radius: 0px;
+margin:100px;}
+
 
 
