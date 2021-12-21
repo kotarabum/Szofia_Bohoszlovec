@@ -7,7 +7,7 @@ background-attachment: relative;}
 .centered {
     position: fixed;
     text-align: center;
-    right: 36%;
+    right: 37%;
     bottom:60%;
     color: rgb(255, 255, 255);
     font-size: 20px;
@@ -23,7 +23,7 @@ background-attachment: relative;}
 .about {
     position: fixed;
     text-align: center;
-    bottom:45%;
+    bottom:44.5%;
     right:47%;
     background-color: rgba(24, 58, 35, 0);
     color: white;
