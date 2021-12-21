@@ -1,4 +1,5 @@
 body {
+position:absolute;
 background-color: rgb(255, 255, 255);}
 .photo {
 background: url(IMG-1836.jpg);
