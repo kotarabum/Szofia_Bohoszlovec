@@ -4,7 +4,10 @@ body {
    background-size: cover;
    background-position: center center;
    margin:5%;
-   width:100%}
+@media screen and (min-width: 900px) {
+ width: 100%;}
+@media screen and (max-width: 900px) {
+ width: 60%;}
 .back {
    position:fixed;
    top: 2%;
