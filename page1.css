@@ -1,4 +1,8 @@
-body {
+@media screen and (min-width: 900px)
+ width: 100%;
+@media screen and (max-width: 900px)
+ width: 60%;{ 
+  body {
 position:relative;
 background: url(IMG-1836.jpg);
 background-size: contain;
@@ -8,10 +12,6 @@ background-repeat: no-repeat;
 background-color: rgb(255, 255, 255);
 background-size: 30%;
 margin:5%;}
-@media screen and (min-width: 900px) {
- width: 100%;}
-@media screen and (max-width: 900px) {
- width: 60%;}
 .text 
 {position: absolute;
 top: 250px;
@@ -45,7 +45,7 @@ width: 30px;
 height: 30px;
 border-radius: 50%;
 background-color: black;
-margin:1%}
+margin:1%
  #circle2 {
 position: absolute;
 top: 220%;
@@ -224,6 +224,7 @@ margin:10%;}
    border-width: 0px;
    border-radius: 0px;
    margin:1%;}
+  }
 
 
 
