@@ -133,7 +133,7 @@ width: 100%;}
  
  
  
-@media screen and (max-width: 900px)  {
+@media screen and (max-width: 900px) and (min-width: 480px)  {
     body { 
     background-color: white;
     background: url(MOVING%20TEMPLE%202.gif);
