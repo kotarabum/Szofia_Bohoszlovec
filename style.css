@@ -3,7 +3,11 @@ background-color: white;
 background: url(MOVING%20TEMPLE%202.gif);
 background-size: cover;
 background-position: center center;
-background-attachment: relative;}
+background-attachment: relative;
+@media screen and (min-width: 900px) {
+ width: 100%;}
+@media screen and (max-width: 900px) {
+ width: 60%;}
 .centered {
     position: fixed;
     text-align: center;
