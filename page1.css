@@ -12,7 +12,7 @@ margin:5%;
 width:100%}
 .text 
 {position: absolute;
-top: 250px;
+top: 500px;
 left: 5%;
 font-size: 30px;
 width: 30%;
@@ -21,7 +21,7 @@ color: black;
 margin:1%;}
  .text1 {
 position: absolute;
-top: 300px;
+top: 600px;
 right: 5%;
 font-size: 30px;
 width: 30%;
@@ -29,7 +29,7 @@ color: black;
 margin:1%;}
  .text2 {
 position: absolute;
-top: 200px;
+top: 400px;
 left: 48%;
 transform: translate(-50%, -50%);
 font-size: 20px;
