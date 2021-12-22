@@ -36,7 +36,7 @@ width: 100%;}
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 60px;
+    font-size: calc(60px-2vm);
     font-size-adjust: inherit;}
     
 .modelling {
@@ -54,7 +54,7 @@ width: 100%;}
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 60px;
+    font-size: calc(60px-2vm);
     font-size-adjust: inherit;} 
 .renders {
     position: fixed;
@@ -72,7 +72,7 @@ width: 100%;}
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 60px;
+    font-size: calc(60px-2vm);
     font-size-adjust: inherit;
     }
 .sketching {
@@ -90,7 +90,7 @@ width: 100%;}
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 60px;
+    font-size: calc(60px-2vm);
     font-size-adjust: inherit;}
 .hobbies {
     position: fixed;
@@ -107,7 +107,7 @@ width: 100%;}
     border-color: rgba(255, 255, 255, 0.582);
     border-width: 0.05px;
     border-radius: 1px;
-    font-size: 60px;
+    font-size: calc(60px-2vm);
     font-size-adjust: inherit;}
 #square1 {
     position:fixed;
