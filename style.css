@@ -1,13 +1,12 @@
+
+@media screen and (min-width: 900px)  {
 body { 
 background-color: white;
 background: url(MOVING%20TEMPLE%202.gif);
 background-size: cover;
 background-position: center center;
 background-attachment: relative;
-@media screen and (min-width: 900px) {
- width: 100%;}
-@media screen and (max-width: 900px) {
- width: 60%;}
+width: 100%;}
 .centered {
     position: fixed;
     text-align: center;
@@ -127,4 +126,138 @@ background-attachment: relative;
     height: 20px;
     background-color: rgba(255, 255, 255, 0.986);
     border-radius: 1px;} 
+  }
+
+
+ 
+ 
+ 
+ 
+@media screen and (max-width: 900px)  {
+    body { 
+    background-color: white;
+    background: url(MOVING%20TEMPLE%202.gif);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: relative;
+    width: 60%;}
+.centered {
+    position: fixed;
+    text-align: center;
+    right: 37.5%;
+    bottom:60%;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;}
+.bottom-left {
+    position: fixed;
+    text-align: center;
+    right:38%;
+    bottom:58%;
+    background-color: rgba(24, 58, 35, 0);
+    color: rgba(255, 255, 255, 0.76);
+    font-size: 30px;}
+.about {
+    position: fixed;
+    text-align: center;
+    bottom:45%;
+    right:45%;
+    margin:0px;
+    background-color: rgba(24, 58, 35, 0);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 60px;
+    font-size-adjust: inherit;}
+  .modelling {
+    position: fixed;
+    text-align: center;
+    bottom:35%;
+    right:42.5%;
+    margin:0px;
+    background-color: rgba(24, 58, 35, 0);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 60px;
+    font-size-adjust: inherit;} 
+.renders {
+    position: fixed;
+    display:block;
+    text-align: center;
+    bottom:25%;
+    right:43.5%;
+    margin:0px;
+    background-color: rgba(24, 58, 35, 0);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 60px;
+    font-size-adjust: inherit;
+    }
+.sketching {
+    position: fixed;
+    text-align: center;
+    bottom:15%;
+    right:42.5%;
+    margin:0px;
+    background-color: rgba(24, 58, 35, 0);
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 60px;
+    font-size-adjust: inherit;}
+.hobbies {
+    position: fixed;
+    text-align: center;
+    bottom:5%;
+    right:43.5%;
+    margin:0px;
+    background-color: rgba(24, 58, 35, 0);
+    color: hsl(0, 0%, 100%);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: inherit;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.582);
+    border-width: 0.05px;
+    border-radius: 1px;
+    font-size: 60px;
+    font-size-adjust: inherit;}
+#square1 {
+    position:fixed;
+    top: 1%;
+    right: 2%;
+    width: 20px;
+    height: 20px;
+    background-color: rgba(255, 255, 255, 0.986);
+    border-radius: 1px;} 
+#square2 {
+    position: fixed; 
+    top: 5%;
+    right: 2%;
+    width: 20px;
+    height: 20px;
+    background-color: rgba(255, 255, 255, 0.986);
+    border-radius: 1px;} 
+  }
 
