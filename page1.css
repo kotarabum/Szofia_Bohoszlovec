@@ -13,7 +13,7 @@ margin:5%;}
 {position: absolute;
 top: 500px;
 left: 5%;
-font-size: 30px;
+font-size: calc(30px+1vw);
 width: 30%;
 text-family:tittilium;
 color: black;
@@ -22,7 +22,7 @@ margin:1%;}
 position: absolute;
 top: 600px;
 right: 5%;
-font-size: 30px;
+font-size: calc(30px+1vw);
 width: 30%;
 color: black;
 margin:1%;}
@@ -31,7 +31,7 @@ position: absolute;
 top: 400px;
 left: 48%;
 transform: translate(-50%, -50%);
-font-size: 20px;
+font-size: calc(20px+1vw);
 color:black;
 margin:1%;}  
  #circle1 {
@@ -56,8 +56,8 @@ margin:1%;}
 position: absolute;
 top: 240%;
 right: 50%;
-width: 30px;
-height: 30px;
+width: calc(30px+1vw);
+height: calc(30px+1vw);
 border-radius: 50%;
 background-color: black;
 margin:1%;}
