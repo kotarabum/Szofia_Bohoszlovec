@@ -272,9 +272,11 @@ body {
         margin-left: 120px;
         margin-right: 18px;}
         .text, .text1 { 
+        width:30%;
         font-size: 15px;
         padding-top: 200px;}
         .text2 { 
+            width:30%;
             font-size: 15px;
             padding-top: 400px; 
         margin-left: -160px; 
