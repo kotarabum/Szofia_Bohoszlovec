@@ -285,9 +285,9 @@ body {
         #circle1, #circle2, #circle3, #circle4, #circle5 {
             width: 60px;
             height: 60px;
-            margin-left: 40px;    }
+            margin-left: 0px;    }
          .text3, .text4, .text5, .text6, .text7,
      .text8, .text9, .text10, .text11, .text12, .text13, .text14, .text15, .text16, .text17 {
-         margin-left: 40px;}
+         margin-left: 0px;}
          .text17, .heading {font-size: 30px;}
         }
