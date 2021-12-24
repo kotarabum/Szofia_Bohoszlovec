@@ -15,7 +15,7 @@ body {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    padding:200px;}
+    padding:600px;}
     .text 
     {position: absolute;
     top: 500px;
@@ -33,16 +33,7 @@ body {
     width: 40%;
     color: black;
     text-align:end;
-    text-align:right;}
-     .text2 {
-    position: absolute;
-    padding-left: 500px;
-    top: 400px;
-    left: 50%;
-    width:300px;
-    transform: translate(-50%, -50%);
-    font-size: 15px;
-    color:black;}  
+    text-align:right;} 
      #circle1 {
     position: absolute;
     left: 50%;
