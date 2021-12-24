@@ -13,18 +13,15 @@
     
     section {
     padding: 300px 0;}
-   
+
 .container1 {
-        top:600px;
-        position: absolute;
-        width: 30%;
-        padding-left: 3%;}
-.split1 {
-        display:inline-flex;
-        flex-flow:column;
-        width: 100%;
-        top:600px;
-    }
+    margin: auto 0;
+    width: min(90% 200px);
+    padding-top: 300px;}
+.split {
+    display: flex;
+    flex-direction: row;
+    padding:5px;}
         
       
     .photo_row1, .photo_row2, .photo_row3, .photo_row4
