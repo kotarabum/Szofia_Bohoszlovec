@@ -23,7 +23,8 @@ body {
     width: 40%;
     color: black;
     text-align:end;
-    text-align: left;}
+    text-align: left;
+padding:200px;}
      .text1 {
     position: absolute;
     top: 1000px;
