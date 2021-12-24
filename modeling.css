@@ -31,38 +31,8 @@
 
 
 
-.container2 {
-    top:600px;
-    position: absolute;
-    width: 30%;
-    padding-left: 3%;}
-.split2 {
-    display:inline-flex;
-    flex-flow:column;
-    width: 100%;
-    top:600px;
-}
 
 
-.container3 {
-    top:600px;
-    position: absolute;
-    width: 30%;
-    padding-left: 3%;}
-.split3 {
-    left: 3%;
-    display:inline-flex;
-    flex-flow:column;
-    width: 100%;}
-
-@media screen and (max-width: 900px){
-    body {width:100%;}
-    .container1 {
-        padding-top: 10px;
-    }
-    .split {flex-flow: column ;
-    padding: 10px;}
-}
 .overlay_text1 {
     position: absolute;
     display: block;
