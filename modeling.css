@@ -22,6 +22,14 @@
     display: flex;
     flex-direction: row;
     padding:5px;}
+
+@media screen and (max-width: 900px){
+    body {width:100%;}
+    .container1 {
+        padding-top: 10px;
+    }
+    .split {flex-flow: column ;
+    padding: 10px;}
         
       
     .photo_row1, .photo_row2, .photo_row3, .photo_row4
