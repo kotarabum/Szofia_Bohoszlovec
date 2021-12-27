@@ -26,7 +26,7 @@
 
     
 .photo_row1, .photo_row2, .photo_row3, .photo_row4
-        {width: 30%;
+        {width: 100%;
         padding: 5px;
         position:relative;}
 
@@ -37,7 +37,13 @@
         padding-top: 10px;
     }
     .split {flex-flow: column ;
-        padding: 10px;}}
+        padding: 10px;}
+    
+    .photo_row1, .photo_row2, .photo_row3, .photo_row4
+        {width: 30%;
+        padding: 5px;
+        position:relative;}
+}
 
 .overlay_text1 {
     position: absolute;
@@ -110,6 +116,10 @@
     .text {
         padding-top: 100px;
     }
+     .photo_row1, .photo_row2, .photo_row3, .photo_row4
+        {width: 25%;
+        padding: 5px;
+        position:relative;}
 }
     
     
