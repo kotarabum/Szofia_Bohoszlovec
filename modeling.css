@@ -15,6 +15,7 @@
     padding: 300px 0;}
    
 .container1 {
+    display: flex;
     flex-wrap:wrap;
     top:600px;
     position: absolute;
@@ -22,8 +23,7 @@
     padding-top: 300px;}
 
 .split1 {
-    display: flex;
-    flex-direction: row;}
+    display: flex;}
 
     
 .photo_row1, .photo_row2, .photo_row3, .photo_row4
