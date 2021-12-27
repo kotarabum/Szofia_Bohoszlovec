@@ -24,7 +24,7 @@
     padding:5px;}
 
 @media screen and (max-width: 900px){
-    body {width:100%;}
+    body {width:50%;}
     .container1 {
         padding-top: 10px;
     }
@@ -36,7 +36,6 @@
         {width: 100%;
         padding: 5px;
         position:relative;}
-
 
 
 
