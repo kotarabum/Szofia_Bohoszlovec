@@ -20,10 +20,9 @@
     top:600px;
     position: absolute;
     margin: auto 0;
-    padding-top: 300px;}
+    padding-top: 300px;
+    align-items: baseline;}
 
-.split1 {
-    display: flex;}
 
     
 .photo_row1, .photo_row2, .photo_row3, .photo_row4
