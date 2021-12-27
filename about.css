@@ -250,7 +250,7 @@ body {
      {margin-left: 0px;
         font-size: 0.5rem;}
         .text {
-            top:300px;}
+            top:200px;}
         .text1 {
             top:700px;}
 
@@ -260,7 +260,7 @@ body {
     padding-right: 20%;
     }
         .photo{
-            top:500px;}
+            top:200px;}
     }
     @media screen and (min-width: 900px){ 
         body {width:100%;
