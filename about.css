@@ -15,8 +15,7 @@ body {
     position: absolute;
     width:35%;
     left: 50%;
-    transform: translate(-50%, -50%);
-    top:500px;}
+    transform: translate(-50%, -50%);}
     .text 
     {position: absolute;
     top: 700px;
@@ -250,12 +249,18 @@ body {
      .text8, .text9, .text10, .text11, .text12, .text13, .text14, .text15, .text16 
      {margin-left: 0px;
         font-size: 0.5rem;}
+        .text {
+            top:300px;}
+        .text1 {
+            top:700px;}
 
     .text17, .heading {font-size: 10px;}
     .heading {
     padding-left: 20%;
     padding-right: 20%;
     }
+        .photo{
+            top:500px;}
     }
     @media screen and (min-width: 900px){ 
         body {width:100%;
@@ -263,7 +268,7 @@ body {
         margin-right: 18px;}
         .text, .text1 { 
         font-size: 15px;
-        padding-top: 200px;}
+        padding-top: 300px;}
         .text2 { 
             font-size: 15px;
             padding-top: 400px; 
