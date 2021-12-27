@@ -26,7 +26,7 @@
 
 
     
-.photo_row1, .photo_row2, .photo_row3, .photo_row4
+.photo_row1, .photo_row2, .photo_row3, .photo_row4, .photo_row5
         {width: 100%;
         padding: 5px;
         position:relative;}
@@ -40,7 +40,7 @@
     .split {flex-flow: column ;
         padding: 10px;}
     
-    .photo_row1, .photo_row2, .photo_row3, .photo_row4
+    .photo_row1, .photo_row2, .photo_row3, .photo_row4, .photo_row5
         {width: 50%;
         padding: 5px;
         position:relative;}
@@ -117,7 +117,7 @@
     .text {
         padding-top: 100px;
     }
-     .photo_row1, .photo_row2, .photo_row3, .photo_row4
+     .photo_row1, .photo_row2, .photo_row3, .photo_row4, .photo_row5
         {width: 25%;
         padding: 5px;
         position:relative;}
