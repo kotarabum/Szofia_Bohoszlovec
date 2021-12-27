@@ -16,7 +16,7 @@ body {
     width:35%;
     left: 50%;
     transform: translate(-50%, -50%);
-    top:15px;}
+    top:500px;}
     .text 
     {position: absolute;
     top: 700px;
@@ -278,4 +278,11 @@ body {
      .text8, .text9, .text10, .text11, .text12, .text13, .text14, .text15, .text16, .text17 {
          margin-left: 0px;}
          .text17, .heading {font-size: 30px;}
+        .photo {
+              .photo{
+                 position: absolute;
+                 width:35%;
+                 left: 50%;
+                 transform: translate(-50%, -50%);
+                 top:500px;}  
         }
