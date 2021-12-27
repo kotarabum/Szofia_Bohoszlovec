@@ -13,15 +13,17 @@
     
     section {
     padding: 300px 0;}
-
+   
 .container1 {
-    flex-wrap:wrap;
+    top:600px;
+    position: absolute;
     margin: auto 0;
-    width: min(90% 200px);
     padding-top: 300px;}
+
 .split1 {
     display: flex;
-    flex-direction: row;}
+    flex-direction: row;
+    flex-wrap:wrap;}
 
     
 .photo_row1, .photo_row2, .photo_row3, .photo_row4
