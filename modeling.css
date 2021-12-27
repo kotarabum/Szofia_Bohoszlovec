@@ -41,7 +41,7 @@
         padding: 10px;}
     
     .photo_row1, .photo_row2, .photo_row3, .photo_row4
-        {width: 33%;
+        {width: 50%;
         padding: 5px;
         position:relative;}
 }
