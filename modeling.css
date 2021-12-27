@@ -16,12 +16,13 @@
    
 .container1 {
     display: flex;
-    flex-wrap:wrap;
-    top:600px;
+    flex-flow: row wrap;
+    top:200px;
     position: absolute;
     margin: auto 0;
-    padding-top: 300px;
+    padding-top: 200px;
     align-items: baseline;}
+
 
 
     
