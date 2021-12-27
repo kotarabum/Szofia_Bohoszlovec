@@ -250,9 +250,9 @@ body {
      {margin-left: 0px;
         font-size: 0.5rem;}
         .text {
-            top:200px;}
+            top:300px;}
         .text1 {
-            top:700px;}
+            top:900px;}
 
     .text17, .heading {font-size: 10px;}
     .heading {
@@ -283,11 +283,9 @@ body {
      .text8, .text9, .text10, .text11, .text12, .text13, .text14, .text15, .text16, .text17 {
          margin-left: 0px;}
          .text17, .heading {font-size: 30px;}
-        .photo {
-              .photo{
-                 position: absolute;
+        .photo { position: absolute;
                  width:20%;
                  left: 50%;
                  transform: translate(-50%, -50%);
-                 top:500px;}  
+                 top:700px;}  
         }
