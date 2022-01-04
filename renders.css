@@ -113,6 +113,12 @@
         padding: 5px;
         position:relative;}
 
+        .r1 {
+            width: 100%;
+            padding: 5px;
+            position:relative;
+        }
+
         .heading, .back {
         font-size: 10px;}
 
