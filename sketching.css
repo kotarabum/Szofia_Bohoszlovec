@@ -11,6 +11,106 @@
     margin:0%;
     padding:0%;}
 
+    .container1 {
+        display: flex;
+        flex-flow: row wrap;
+        top:200px;
+        position: absolute;
+        margin: auto 0;
+        padding-top: 200px;
+        align-items: center;}
+
+.J1, .J2, .J3, .J4, .J5, .J6, .J7, .J9, .J13, .J14, .J16, .J18, .J19, .J20, .J21, .J22,
+ .J24, .J25, .J26, .J27, .J28, .J30, .J31, .J35, .J41, .J44, .J47, .J48, .J49, .J52, .J53, .J54, .J55, .J56, .J57, .J58
+        {width: 25%;
+            padding: 5px;
+            position:relative;
+            opacity: 0.7;
+            transition: 0.3s;}
+.J60 
+    {width: 80%;
+        left: 10%;
+        padding: 5px;
+        position:relative;
+        opacity: 0.7;
+        transition: 0.3s;} 
+
+    
+            .J1:hover {
+                opacity: 1;}
+            .J2:hover {
+                opacity: 1;}
+            .J3:hover {
+                opacity: 1;}
+            .J4:hover {
+                opacity: 1;}
+            .J5:hover {
+                opacity: 1;}
+            .J6:hover {
+                opacity: 1;}
+            .J7:hover {
+                opacity: 1;}
+            .J9:hover {
+                opacity: 1;}
+            .J13:hover {
+                opacity: 1;}
+            .J14:hover {
+                opacity: 1;}
+            .J16:hover {
+                opacity: 1;}
+            .J18:hover {
+                opacity: 1;}
+            .J19:hover {
+                opacity: 1;}
+            .J20:hover {
+                opacity: 1;}
+            .J21:hover {
+                opacity: 1;}
+            .J22:hover {
+                opacity: 1;}
+            .J24:hover {
+                opacity: 1;}
+            .J25:hover {
+                opacity: 1;}
+            .J26:hover {
+                opacity: 1;}
+            .J27:hover {
+                opacity: 1;}
+            .J28:hover {
+                opacity: 1;}
+            .J30:hover {
+                opacity: 1;}
+            .J31:hover {
+                opacity: 1;}
+            .J35:hover {
+                opacity: 1;}
+            .J41:hover {
+                opacity: 1;}
+            .J44:hover {
+                opacity: 1;}
+            .J47:hover {
+                opacity: 1;}
+            .J48:hover {
+                opacity: 1;}
+            .J49:hover {
+                opacity: 1;}
+            .J52:hover {
+                opacity: 1;}
+            .J53:hover {
+                opacity: 1;}
+            .J54:hover {
+                opacity: 1;}
+            .J55:hover {
+                opacity: 1;}
+            .J56:hover {
+                opacity: 1;}
+            .J57:hover {
+                opacity: 1;}
+            .J58:hover {
+                opacity: 1;}
+            .J60:hover {
+                opacity: 1;}
+        
     
     .back {
         position:fixed;
@@ -54,6 +154,11 @@
 @media screen and (max-width: 900px)
 
         {
+            .J1, .J2, .J3, .J4, .J5, .J6, .J7, .J9, .J13, .J14, .J16, .J18, .J19, .J20, .J21, .J22,
+            .J24, .J25, .J26, .J27, .J28, .J30, .J31, .J35, .J41, .J44, .J47, .J48, .J49, .J52, .J53, .J54, .J55, .J56, .J57, .J58
+        {width: 50%;
+        padding: 5px;
+        position:relative;}
 
         .heading, .back {
         font-size: 10px;}
@@ -64,7 +169,7 @@
 
         .text {
         font-size: 10px;
-         top: 160px;}
+         top: 180px;}
         
         }
 
