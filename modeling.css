@@ -433,13 +433,13 @@
     .h1, .h2 {
         width: 50%;
         font-size: 8px;
-        top:300px;
+        top:5%;
         padding-bottom: 20px;
     }
     .p1, .p2 {
         width: 50%;
         font-size: 6px;
-        top:310px;
+        top:5.2%;
     }
 
     .h2, .p2 {
@@ -450,13 +450,13 @@
     .h3, .h4 {
         width: 50%;
         font-size: 8px;
-        top:850px;
+        top:18%;
         padding-bottom: 20px;
     }
     .p3, .p4 {
         width: 50%;
         font-size: 6px;
-        top:860px;
+        top:18.2%;
     }
     .h3, .p3 {
         left:0%;
@@ -468,13 +468,13 @@
     .h5, .h6 {
         width: 50%;
         font-size: 8px;
-        top:1400px;
+        top:32%;
         padding-bottom: 20px;
     }
     .p5, .p6 {
         width: 50%;
         font-size: 6px;
-        top:1410px;
+        top:32.2%;
     }
     .h5, .p5 {
         left:0%;
@@ -486,13 +486,13 @@
     .h7, .h8 {
         width: 50%;
         font-size: 8px;
-        top:2000px;
+        top:44%;
         padding-bottom: 20px;
     }
     .p7, .p8 {
         width: 50%;
         font-size: 6px;
-        top:2010px;
+        top:44.2%;
     }
     .h7, .p7 {
         left:0%;
@@ -504,13 +504,13 @@
     .h9, .h10 {
         width: 50%;
         font-size: 8px;
-        top:2550px;
+        top:56%;
         padding-bottom: 20px;
     }
     .p9, .p10 {
         width: 50%;
         font-size: 6px;
-        top:2560px;
+        top:56.2%;
     }
     .h9, .p9 {
         left:0%;
@@ -522,13 +522,13 @@
     .h11, .h12 {
         width: 50%;
         font-size: 8px;
-        top:3100px;
+        top:70%;
         padding-bottom: 20px;
     }
     .p11, .p12 {
         width: 50%;
         font-size: 6px;
-        top:3110px;
+        top:70.2%;
     }
     .h11, .p11 {
         left:0%;
@@ -540,13 +540,13 @@
     .h13, .h14 {
         width: 50%;
         font-size: 8px;
-        top:3650px;
+        top:82%;
         padding-bottom: 20px;
     }
     .p13, .p14 {
         width: 50%;
         font-size: 6px;
-        top:3660px;
+        top:82.2%;
     }
     .h13, .p13 {
         left:0%;
@@ -557,13 +557,13 @@
     .h15, .h16 {
         width: 50%;
         font-size: 8px;
-        top:4200px;
+        top:94%;
         padding-bottom: 20px;
     }
     .p15, .p16 {
         width: 50%;
         font-size: 6px;
-        top:4210px;
+        top:94.2%;
     }
     .h15, .p15 {
         left:0%;
@@ -571,7 +571,6 @@
     .h16, .p16 {
         left:50%;
     }
-
 }
 
 
