@@ -94,6 +94,14 @@
             .bottom { font-size: 20px;}
             .about, .modelling, .renders, .sketching, .portfolios { font-size: 40px}}
 @media screen and (max-width: 900px) {
+    
+        .contact {
+        position:absolute;
+        top: 4%;
+        right: 10%;
+        color: #fff;
+        font-size: 15px;} 
+    
             body { width: 50%;}
             .centered {font-size: 30px;}
             .bottom { font-size: 10px;}
