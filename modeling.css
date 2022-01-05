@@ -28,7 +28,7 @@
     font-weight: 100;
     background-color: rgba(0, 0, 0, 0.26);
     padding-bottom: 60px;
-    top:15%;
+    top:10%;
     left:0%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -38,7 +38,7 @@
 .p1 {position:absolute;
     text-align: center;
     font-weight: 100;
-    top:15.5%;
+    top:10.2%;
     left:0%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -52,7 +52,7 @@
     font-weight: 100;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:15%;
+    top:10%;
     left:25%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -62,7 +62,7 @@
 .p2 {position:absolute;
     text-align: center;
     font-weight: 100;
-    top:15.5%;
+    top:10.2%;
     left:25%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -74,7 +74,7 @@
     font-weight: 100;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:15%;
+    top:10%;
     left:50%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -84,7 +84,7 @@
 .p3 {position:absolute;
     text-align: center;
     font-weight: 100;
-    top:15.5%;
+    top:10.2%;
     left:50%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -96,7 +96,7 @@
     font-weight: 100;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:15%;
+    top:10%;
     left:75%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -106,7 +106,7 @@
 .p4 {position:absolute;
     text-align: center;
     font-weight: 100;
-    top:15.5%;
+    top:10.2%;
     left:75%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -118,7 +118,7 @@
     font-weight: 100;
     background-color:rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:39%;
+    top:25%;
     left:0%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -128,7 +128,7 @@
 .p5 {position:absolute;
     text-align: center;
     font-weight: 100;
-    top:39.5%;
+    top:25.2%;
     left:0%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -140,7 +140,7 @@
     font-weight: 100;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:39%;
+    top:25%;
     left:25%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -150,7 +150,7 @@
 .p6 {position:absolute;
     text-align: center;
     font-weight: 100;
-    top:39.5%;
+    top:25.2%;
     left:25%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -162,7 +162,7 @@
     font-weight: 100;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:39%;
+    top:25%;
     left:50%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -172,7 +172,7 @@
 .p7 {position:absolute;
     text-align: center;
     font-weight: 100;
-    top:39.5%;
+    top:25.2%;
     left:50%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -184,7 +184,7 @@
     font-weight: 100;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:39%;
+    top:25%;
     left:75%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -194,7 +194,7 @@
 .p8 {position:absolute;
     text-align: center;
     font-weight: 100;
-    top:39.5%;
+    top:25.2%;
     left:75%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -206,7 +206,7 @@
     text-align: center;
     background-color:rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:65%;
+    top:42%;
     left:0%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -215,7 +215,7 @@
 }
 .p9 {position:absolute;
     text-align: center;
-    top:65.5%;
+    top:42.2%;
     left:0%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -226,7 +226,7 @@
     text-align: center;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:65%;
+    top:42%;
     left:25%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -235,7 +235,7 @@
 }
 .p10 {position:absolute;
     text-align: center;
-    top:65.5%;
+    top:42.2%;
     left:25%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -246,7 +246,7 @@
     text-align: center;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:65%;
+    top:42%;
     left:50%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -255,7 +255,7 @@
 }
 .p11 {position:absolute;
     text-align: center;
-    top:65.5%;
+    top:42.2%;
     left:50%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -266,7 +266,7 @@
     text-align: center;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:65%;
+    top:42%;
     left:75%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -275,7 +275,7 @@
 }
 .p12 {position:absolute;
     text-align: center;
-    top:65.5%;
+    top:42.2%;
     left:75%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -289,7 +289,7 @@
     text-align: center;
     background-color:rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:90%;
+    top:58%;
     left:0%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -298,7 +298,7 @@
 }
 .p13 {position:absolute;
     text-align: center;
-    top:90.5%;
+    top:58.2%;
     left:0%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -309,7 +309,7 @@
     text-align: center;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:90%;
+    top:58%;
     left:25%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -318,7 +318,7 @@
 }
 .p14 {position:absolute;
     text-align: center;
-    top:90.5%;
+    top:58.2%;
     left:25%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -329,7 +329,7 @@
     text-align: center;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:90%;
+    top:58%;
     left:50%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -338,7 +338,7 @@
 }
 .p15 {position:absolute;
     text-align: center;
-    top:90.5%;
+    top:58.2%;
     left:50%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -349,7 +349,7 @@
     text-align: center;
     background-color: rgba(14, 1, 1, 0.26);
     padding-bottom: 60px;
-    top:90%;
+    top:58%;
     left:75%;
     font-size: 20px;
     color: rgba(255, 255, 255, 0.719);
@@ -358,7 +358,7 @@
 }
 .p16 {position:absolute;
     text-align: center;
-    top:90.5%;
+    top:58.2%;
     left:75%;
     font-size: 15px;
     color: rgba(255, 255, 255, 0.719);
@@ -367,13 +367,203 @@
 }
 
 
+.h17 {position: absolute;
+    text-align: center;
+    background-color:rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:72%;
+    left:0%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:25%;
+}
+.p17 {position:absolute;
+    text-align: center;
+    top:72.2%;
+    left:0%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:25%;
+}
+.h18 {position: absolute;
+    text-align: center;
+    background-color: rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:72%;
+    left:25%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:25%;
+}
+.p18 {position:absolute;
+    text-align: center;
+    top:72.2%;
+    left:25%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:25%;
+}
+.h19 {position: absolute;
+    text-align: center;
+    background-color: rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:72%;
+    left:50%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:25%;
+}
+.p19 {position:absolute;
+    text-align: center;
+    top:72.2%;
+    left:50%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:25%;
+}
+.h20 {position: absolute;
+    text-align: center;
+    background-color: rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:72%;
+    left:75%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:25%;
+}
+.p20 {position:absolute;
+    text-align: center;
+    top:72.2%;
+    left:75%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:25%;
+}
 
+
+.h21 {position: absolute;
+    text-align: center;
+    background-color:rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:85%;
+    left:0%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:25%;
+}
+.p21 {position:absolute;
+    text-align: center;
+    top:85.2%;
+    left:0%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:25%;
+}
+.h22 {position: absolute;
+    text-align: center;
+    background-color: rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:85%;
+    left:25%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:25%;
+}
+.p22 {position:absolute;
+    text-align: center;
+    top:85.2%;
+    left:25%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:25%;
+}
+.h23 {position: absolute;
+    text-align: center;
+    background-color: rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:85%;
+    left:50%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:25%;
+}
+.p23 {position:absolute;
+    text-align: center;
+    top:85.2%;
+    left:50%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:25%;
+}
+.h24 {position: absolute;
+    text-align: center;
+    background-color: rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:85%;
+    left:75%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:25%;
+}
+.p24 {position:absolute;
+    text-align: center;
+    top:85.2%;
+    left:75%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:25%;
+}
+
+
+.h26 {position: absolute;
+    text-align: center;
+    background-color: rgba(14, 1, 1, 0.26);
+    padding-bottom: 60px;
+    top:96%;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 3;
+    width:100%;
+}
+.p26 {position:absolute;
+    text-align: center;
+    top:96.2%;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.719);
+    z-index: 4;
+    width:100%;
+}
 
 
     
 .photo_row1, .photo_row2, .photo_row3, .photo_row4, .photo_row5, .photo_row6, .photo_row7, .photo_row8, 
 .photo_row9, .photo_row10, .photo_row11, .photo_row12, .photo_row13, .photo_row14, .photo_row15, .photo_row16
+, .photo_row17, .photo_row18, .photo_row19, .photo_row20, .photo_row21, .photo_row22, .photo_row23, .photo_row24
         {width: 25%;
+        padding: 5px;
+        position:relative;
+        opacity: 0.7;
+        transition: 0.3s;}
+
+        .photo_row26
+
+        {width: 100%;
         padding: 5px;
         position:relative;
         opacity: 0.7;
@@ -411,8 +601,26 @@
 .photo_row15:hover {
     opacity: 1;}
 .photo_row16:hover {
-    opacity: 1;}       
-    
+    opacity: 1;}      
+.photo_row17:hover {
+    opacity: 1;}
+.photo_row18:hover {
+    opacity: 1;}
+.photo_row19:hover {
+    opacity: 1;}
+.photo_row20:hover {
+    opacity: 1;}
+.photo_row21:hover {
+    opacity: 1;}
+.photo_row22:hover {
+    opacity: 1;}
+.photo_row23:hover {
+    opacity: 1;}
+.photo_row24:hover {
+    opacity: 1;}
+.photo_row26:hover {
+    opacity: 1;}
+
 
 
 
@@ -426,20 +634,26 @@
     
         .photo_row1, .photo_row2, .photo_row3, .photo_row4, .photo_row5, .photo_row6, .photo_row7, .photo_row8, 
         .photo_row9, .photo_row10, .photo_row11, .photo_row12, .photo_row13, .photo_row14, .photo_row15, .photo_row16
+        , .photo_row17, .photo_row18, .photo_row19, .photo_row20, .photo_row21, .photo_row22, .photo_row23, .photo_row24
         {width: 50%;
+        padding: 5px;
+        position:relative;}
+
+    .photo_row26
+    {width: 100%;
         padding: 5px;
         position:relative;}
 
     .h1, .h2 {
         width: 50%;
         font-size: 8px;
-        top:5%;
+        top:4%;
         padding-bottom: 20px;
     }
     .p1, .p2 {
         width: 50%;
         font-size: 6px;
-        top:5.2%;
+        top:4.1%;
     }
 
     .h2, .p2 {
@@ -450,13 +664,13 @@
     .h3, .h4 {
         width: 50%;
         font-size: 8px;
-        top:18%;
+        top:13%;
         padding-bottom: 20px;
     }
     .p3, .p4 {
         width: 50%;
         font-size: 6px;
-        top:18.2%;
+        top:13.1%;
     }
     .h3, .p3 {
         left:0%;
@@ -468,13 +682,13 @@
     .h5, .h6 {
         width: 50%;
         font-size: 8px;
-        top:32%;
+        top:21%;
         padding-bottom: 20px;
     }
     .p5, .p6 {
         width: 50%;
         font-size: 6px;
-        top:32.2%;
+        top:21.1%;
     }
     .h5, .p5 {
         left:0%;
@@ -486,13 +700,13 @@
     .h7, .h8 {
         width: 50%;
         font-size: 8px;
-        top:44%;
+        top:30%;
         padding-bottom: 20px;
     }
     .p7, .p8 {
         width: 50%;
         font-size: 6px;
-        top:44.2%;
+        top:30.1%;
     }
     .h7, .p7 {
         left:0%;
@@ -504,13 +718,13 @@
     .h9, .h10 {
         width: 50%;
         font-size: 8px;
-        top:56%;
+        top:39%;
         padding-bottom: 20px;
     }
     .p9, .p10 {
         width: 50%;
         font-size: 6px;
-        top:56.2%;
+        top:39.1%;
     }
     .h9, .p9 {
         left:0%;
@@ -522,13 +736,13 @@
     .h11, .h12 {
         width: 50%;
         font-size: 8px;
-        top:70%;
+        top:48%;
         padding-bottom: 20px;
     }
     .p11, .p12 {
         width: 50%;
         font-size: 6px;
-        top:70.2%;
+        top:48.1%;
     }
     .h11, .p11 {
         left:0%;
@@ -540,13 +754,13 @@
     .h13, .h14 {
         width: 50%;
         font-size: 8px;
-        top:82%;
+        top:56%;
         padding-bottom: 20px;
     }
     .p13, .p14 {
         width: 50%;
         font-size: 6px;
-        top:82.2%;
+        top:56.1%;
     }
     .h13, .p13 {
         left:0%;
@@ -557,13 +771,13 @@
     .h15, .h16 {
         width: 50%;
         font-size: 8px;
-        top:94%;
+        top:64%;
         padding-bottom: 20px;
     }
     .p15, .p16 {
         width: 50%;
         font-size: 6px;
-        top:94.2%;
+        top:64.1%;
     }
     .h15, .p15 {
         left:0%;
@@ -571,7 +785,85 @@
     .h16, .p16 {
         left:50%;
     }
+
+    .h17, .h18 {
+        width: 50%;
+        font-size: 8px;
+        top:72%;
+        padding-bottom: 20px;
+    }
+    .p17, .p18 {
+        width: 50%;
+        font-size: 6px;
+        top:72.1%;
+    }
+    .h17, .p17 {
+        left:0%;
+    }
+    .h18, .p18 {
+        left:50%;
+    }
+    .h19, .h20 {
+        width: 50%;
+        font-size: 8px;
+        top:79%;
+        padding-bottom: 20px;
+    }
+    .p19, .p20 {
+        width: 50%;
+        font-size: 6px;
+        top:79.1%;
+    }
+    .h19, .p19 {
+        left:0%;
+    }
+    .h20, .p20 {
+        left:50%;}
+
+    .h21, .h22 {
+        width: 50%;
+        font-size: 8px;
+        top:86%;
+        padding-bottom: 20px;}
+
+    .p21, .p22 {
+        width: 50%;
+        font-size: 6px;
+        top:86.1%;}
+
+    .h21, .p21 {
+        left:0%;}
+
+    .h22, .p22 {
+        left:50%;}
+
+    .h23, .h24 {
+        width: 50%;
+        font-size: 8px;
+        top:94%;
+        padding-bottom: 20px;}
+    .p23, .p24 {
+        width: 50%;
+        font-size: 6px;
+        top:94.1%;}
+    .h23, .p23 
+    {left:0%;}
+    .h24, .p24 
+    {left:50%;}
+   
+    .p26 
+    {width: 100%;
+    font-size: 6px;
+    top:99.1%;}
+
+    .h26
+    {width: 100%;
+    font-size: 8px;
+    top:99%;
+    padding-bottom: 20px;
+    left:0%;}
 }
+
 
 
     .back {
@@ -637,13 +929,18 @@
     }
     .photo_row1, .photo_row2, .photo_row3, .photo_row4, .photo_row5, .photo_row6, .photo_row7, .photo_row8, 
     .photo_row9, .photo_row10, .photo_row11, .photo_row12, .photo_row13, .photo_row14, .photo_row15, .photo_row16
+    , .photo_row17, .photo_row18, .photo_row19, .photo_row20, .photo_row21, .photo_row22, .photo_row23, .photo_row24
 
  
         {width: 25%;
         padding: 5px;
         position:relative;}
+
+    .photo_row26
+    {width: 100%;
+        padding: 5px;
+        position:relative;}
 }
-    
     
     
     
