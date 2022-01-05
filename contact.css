@@ -90,7 +90,22 @@
         transform: translate(-50%, -50%);
         left:50%;
         top: 600px;
-        width: 90%;
+        width: 80%;
         font-size: 20px;
         color: rgba(255, 255, 255, 0.8);}
+
+        @media screen and (max-width: 900px)
+
+        {
+
+        .heading, .back {
+        font-size: 10px;}
+
+        .heading {
+        padding-left: 30px;
+        padding-right: 30px;}
+
+        
+        }
+
 
