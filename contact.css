@@ -104,8 +104,9 @@
         .heading {
         padding-left: 30px;
         padding-right: 30px;}
-
-        
-        }
-
+.text, .text1, .text2, .text3, .text4 {
+     font-size: 10px;
+            }
+ 
+    
 
