@@ -108,8 +108,8 @@
     transform: scale(1.4);
     cursor: zoom-out;}   
 .p19:active
-    {-webkit-transform: scale(1.4);
-    transform: scale(1.4);
+    {-webkit-transform: scale(1.8);
+    transform: scale(1.8);
     cursor: zoom-out;}
 .p20:active
    { -webkit-transform: scale(1.8);
