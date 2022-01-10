@@ -33,7 +33,9 @@
     opacity: 1;
     transition: 0.3s;
     transition: transform 0.25s ease;
-    cursor: zoom-in;}  
+    cursor: zoom-in;
+    border: 1px solid;
+    border-color: rgb(255, 255, 255);}  
 
 .p1:active
     {-webkit-transform: scale(1.4);
