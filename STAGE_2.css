@@ -24,9 +24,10 @@
     align-items: center;}
     .c1, .c2, .c3, .c4, .c5, .c6, .c7, .c8, .c9, .c10, .c11, .c12, .c13, .c14, .c15, .c16,
     .c17, .c18, .c19, .c20, .c21, .c22, .c23, .c24, .c25, .c26,
-    .c27, .c28, .c29, .c30, .c31, .c32
+    .c27, .c28, .c29, .c30, .c31, .c32, .c33, .c34, .c35, .c36, .c37, .c38, .c39, .c40, .c41, .c42, .c43, .c44
 
     {width: 60%;
+    top:200px;
     left:20%;
     padding: 5px;
     position:relative;
@@ -38,134 +39,182 @@
     border-color: rgb(255, 255, 255);
   }  
 
-.p1:active
+.c1:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p2:active
+.c2:active
    { -webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}   
-.p3:active
+.c3:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p4:active
+.c4:active
    { -webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p5:active
+.c5:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p6:active
-   { -webkit-transform: scale(1.4);
-    transform: scale(1.4);
-    cursor: zoom-out;}   
-.p7:active
-    {-webkit-transform: scale(1.4);
-    transform: scale(1.4);
-    cursor: zoom-out;}
-.p8:active
-   { -webkit-transform: scale(1.4);
-    transform: scale(1.4);
-    cursor: zoom-out;}
-.p9:active
-    {-webkit-transform: scale(1.4);
-    transform: scale(1.4);
-    cursor: zoom-out;}
-.p10:active
+.c6:active
    { -webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}   
-.p11:active
+.c7:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p12:active
+.c8:active
    { -webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p13:active
+.c9:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p14:active
-   { -webkit-transform: scale(1.4);
-    transform: scale(1.4);
-    cursor: zoom-out;}   
-.p15:active
-    {-webkit-transform: scale(1.4);
-    transform: scale(1.4);
-    cursor: zoom-out;}
-.p16:active
-   { -webkit-transform: scale(1.4);
-    transform: scale(1.4);
-    cursor: zoom-out;}
-.p17:active
-    {-webkit-transform: scale(1.4);
-    transform: scale(1.4);
-    cursor: zoom-out;}
-.p18:active
+.c10:active
    { -webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}   
-.p19:active
+.c11:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p20:active
+.c12:active
+   { -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c13:active
+    {-webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c14:active
+   { -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}   
+.c15:active
+    {-webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c16:active
+   { -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c17:active
+    {-webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c18:active
+   { -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}   
+.c19:active
+    {-webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c20:active
    { -webkit-transform: scale(1.8);
     transform: scale(1.8);
     cursor: zoom-out;}
-.p21:active
+.c21:active
     {-webkit-transform: scale(1.8);
     transform: scale(1.8);
     cursor: zoom-out;}
-.p22:active
+.c22:active
    { -webkit-transform: scale(1.8);
     transform: scale(1.8);
     cursor: zoom-out;}   
-.p23:active
+.c23:active
     {-webkit-transform: scale(1.8);
     transform: scale(1.8);
     cursor: zoom-out;}
-.p24:active
+.c24:active
    { -webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p25:active
+.c25:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p26:active
+.c26:active
    { -webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p27:active
+.c27:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p28:active
+.c28:active
    { -webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}   
-.p29:active
+.c29:active
     {-webkit-transform: scale(1.4);
     transform: scale(1.4);
     cursor: zoom-out;}
-.p30:active
+.c30:active
    { -webkit-transform: scale(1.8);
     transform: scale(1.8);
     cursor: zoom-out;}
-.p31:active
+.c31:active
     {-webkit-transform: scale(1.8);
     transform: scale(1.8);
     cursor: zoom-out;}
-.p32:active
+.c32:active
    { -webkit-transform: scale(1.8);
     transform: scale(1.8);
     cursor: zoom-out;}   
+.c33:active
+    {-webkit-transform: scale(1.8);
+    transform: scale(1.8);
+    cursor: zoom-out;}
+.c34:active
+   { -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c35:active
+    {-webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c36:active
+   { -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c37:active
+    {-webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c38:active
+   { -webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}   
+.c39:active
+    {-webkit-transform: scale(1.4);
+    transform: scale(1.4);
+    cursor: zoom-out;}
+.c40:active
+   { -webkit-transform: scale(1.8);
+    transform: scale(1.8);
+    cursor: zoom-out;}
+.c41:active
+    {-webkit-transform: scale(1.8);
+    transform: scale(1.8);
+    cursor: zoom-out;}
+.c42:active
+   { -webkit-transform: scale(1.8);
+    transform: scale(1.8);
+    cursor: zoom-out;}
+.c43:active
+    {-webkit-transform: scale(1.8);
+    transform: scale(1.8);
+    cursor: zoom-out;}
+.c44:active
+   { -webkit-transform: scale(1.8);
+    transform: scale(1.8);
+    cursor: zoom-out;}
 
 
 .back {
@@ -201,9 +250,20 @@
     position: center 0;
     transform: translate(-50%, -50%);
     left:50%;
-    top: 200px;
+    top: 220px;
     width: 60%;
     font-size: 16px;
+    color: rgba(255, 255, 255, 0.8);}
+
+.text1 {
+    position:absolute;
+    text-align: center;
+    position: center 0;
+    transform: translate(-50%, -50%);
+    left:50%;
+    top: 490px;
+    width: 60%;
+    font-size: 12px;
     color: rgba(255, 255, 255, 0.8);}
 
 
@@ -214,10 +274,10 @@
         {
             .c1, .c2, .c3, .c4, .c5, .c6, .c7, .c8, .c9, .c10, .c11, .c12, .c13, .c14, .c15, .c16,
             .c17, .c18, .c19, .c20, .c21, .c22, .c23, .c24, .c25, .c26,
-            .c27, .c28, .c29, .c30, .c31, .c32
+            .c27, .c28, .c29, .c30, .c31, .c32, .c33, .c34, .c35, .c36, .c37, .c38, .c39, .c40, .c41, .c42, .c43, .c44
     
 
-        {top:0%;
+        {top:120px;
         width:90%;
         left:5%;}
         
@@ -231,7 +291,12 @@
 
         .text {
         font-size: 10px;
-         top: 230px;}
+         top: 260px;}
+
+        
+        .text1 {
+            font-size: 8px;
+            }
         
         }
 
