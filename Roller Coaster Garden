@@ -9,7 +9,7 @@
 <body>
     <div class=container>
         <div class="heading"> Roller Coaster Garden </div>
-        <A href = "./main" class="back"> BACK </A>
+        <A href = "./index.html" class="back"> BACK </A>
         <div class="text"> Stage 3 “Metamorphose of Rye Lane" represents site re
             search and activating site elements for advertising local culture and vibes. Peckham attracts 
             lots of people by the rooftops and variety of 
