@@ -11,8 +11,8 @@
         <div class="centered" >WELCOME</div>
                    <div class="bottom"> Szofia Bohoszlovec Portfolio </div>
                    <A href = "./about" class="about" > About </A>
-                   <A href = "./STAGE_3" class="STAGE3" >  Roller Coaster Garden </A>
-                   <A href = "./STAGE_2" class="STAGE2" > Temple of Meditation </A>
+                   <A href = "./Roller Coaster Garden" class="STAGE3" >  Roller Coaster Garden </A>
+                   <A href = "./Temple of Meditation" class="STAGE2" > Temple of Meditation </A>
                    <A href = "./modelling" class="modelling" > Modelling </A>
                    <A href = "./renders" class="renders" > Renders </A>
                    <A href = "./sketching" class="sketching" > Sketching</A>
