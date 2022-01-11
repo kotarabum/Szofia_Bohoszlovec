@@ -9,7 +9,7 @@
 <body>
     <div class=container>
         <div class="heading"> Renders </div>
-        <A href = "./main" class="back"> BACK </A>
+        <A href = "./mindex.html" class="back"> BACK </A>
         <div class="text"> Visualising and rendering encouraged to reach realism and bring fun to dull sketches. 
             Primarily using Rhino with Vray and post-production with photoshop helps to combine my softaware skills in these great imagery. </div>
     </div>
