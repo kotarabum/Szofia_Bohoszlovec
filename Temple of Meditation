@@ -9,7 +9,7 @@
 <body>
     <div class=container>
         <div class="heading"> Temple of Meditation </div>
-        <A href = "./index.html" class="back"> BACK </A>
+        <A href = "./main" class="back"> BACK </A>
         <div class="text">   Stage 2 Brief “Temple of meditation in alternative future” proposing the future of Fleet Street in next 2000 year’s, it can be 
             predicted that current problems and events occurring around the world and down to the 
             site will permanently change our mindset: generation suffering from race and gender inequalities, COVID-19, climate change, urbanisation and economic crisis may lead to 
