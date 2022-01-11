@@ -27,6 +27,7 @@
     .p27, .p28, .p29, .p30, .p31, .p32
 
     {width: 60%;
+    top:160px;
     left:20%;
     padding: 5px;
     position:relative;
@@ -35,7 +36,8 @@
     transition: transform 0.25s ease;
     cursor: zoom-in;
     border: 1px solid;
-    border-color: rgb(255, 255, 255);}  
+    border-color: rgb(255, 255, 255);
+  }  
 
 .p1:active
     {-webkit-transform: scale(1.4);
@@ -110,8 +112,8 @@
     transform: scale(1.4);
     cursor: zoom-out;}   
 .p19:active
-    {-webkit-transform: scale(1.8);
-    transform: scale(1.8);
+    {-webkit-transform: scale(1.4);
+    transform: scale(1.4);
     cursor: zoom-out;}
 .p20:active
    { -webkit-transform: scale(1.8);
@@ -205,6 +207,17 @@
     font-size: 16px;
     color: rgba(255, 255, 255, 0.8);}
 
+.text1 {
+        position:absolute;
+        text-align: center;
+        position: center 0;
+        transform: translate(-50%, -50%);
+        left:50%;
+        top: 490px;
+        width: 60%;
+        font-size: 12px;
+        color: rgba(255, 255, 255, 0.8);}
+    
 
 
 
@@ -216,7 +229,7 @@
         .p27, .p28, .p29, .p30, .p31, .p32
     
 
-        {top:0%;
+        {top:200px;
         width:90%;
         left:5%;}
         
@@ -231,6 +244,10 @@
         .text {
         font-size: 10px;
          top: 230px;}
+
+        .text1 {
+            font-size: 8px;
+            }
         
         }
 
